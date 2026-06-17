@@ -1,69 +1,69 @@
 # Artes
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Artes aparece em Linguagens e avalia leitura de imagens, movimentos artisticos, cultura brasileira, patrimonio e funcao social da arte.
+Artes aparece em Linguagens e avalia leitura de imagens, movimentos artisticos, cultura brasileira, patrimônio e função social da arte.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Arte moderna, arte contemporanea, cultura popular, patrimonio cultural, arte brasileira |
-| Media | Musica, teatro, cinema, fotografia, danca |
-| Baixa | Datas e classificacoes isoladas |
+| Alta | Arte moderna, arte contemporânea, cultura popular, patrimônio cultural, arte brasileira |
+| Média | Música, teatro, cinema, fotografia, dança |
+| Baixa | Datas e classificações isoladas |
 
 ## Ordem recomendada de estudo
 
 1. Modernismo no Brasil.
-2. Arte contemporanea.
-3. Cultura popular e patrimonio.
-4. Linguagens artisticas: musica, teatro, cinema, danca.
+2. Arte contemporânea.
+3. Cultura popular e patrimônio.
+4. Linguagens artisticas: música, teatro, cinema, dança.
 5. Leitura de imagem.
 
 ## Links Brasil Escola por assunto
 
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
-| Pagina de Artes | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/) | Para navegar por obras, movimentos e linguagens |
-| Arte moderna | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/arte-moderna.htm) | Antes de Modernismo, vanguardas e ruptura estetica |
-| Grafite | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/grafite.htm) | Antes de questoes sobre arte urbana e critica social |
-| Historia do cinema | Media | [Brasil Escola](https://brasilescola.uol.com.br/artes/cinema.htm) | Revisao de linguagem audiovisual |
-| Historia do teatro | Media | [Brasil Escola](https://brasilescola.uol.com.br/artes/teatro.htm) | Revisao de linguagens cenicas |
-| Patrimonio historico cultural | Media | [Brasil Escola](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm) | Antes de questoes sobre cultura e memoria |
+| Página de Artes | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/) | Para navegar por obras, movimentos e linguagens |
+| Arte moderna | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/arte-moderna.htm) | Antes de Modernismo, vanguardas e ruptura estética |
+| Grafite | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/grafite.htm) | Antes de questões sobre arte urbana e crítica social |
+| História do cinema | Média | [Brasil Escola](https://brasilescola.uol.com.br/artes/cinema.htm) | Revisão de linguagem audiovisual |
+| História do teatro | Média | [Brasil Escola](https://brasilescola.uol.com.br/artes/teatro.htm) | Revisão de linguagens cenicas |
+| Patrimônio histórico cultural | Média | [Brasil Escola](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm) | Antes de questões sobre cultura e memória |
 
 ## Como o ENEM costuma cobrar
 
-As questoes pedem interpretacao de obra, ruptura de padroes, critica social, identidade cultural ou relacao entre arte e contexto.
+As questões pedem interpretação de obra, ruptura de padrões, crítica social, identidade cultural ou relação entre arte e contexto.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Interpretar instalacao, fotografia ou grafite como critica social.
-- Relacionar obra modernista a ruptura de padroes academicos.
-- Reconhecer patrimonio cultural material ou imaterial.
+- Interpretar instalação, fotografia ou grafite como crítica social.
+- Relacionar obra modernista a ruptura de padrões academicos.
+- Reconhecer patrimônio cultural material ou imaterial.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
 Estude por imagens e exemplos. Para cada obra, pergunte: que linguagem usa, que contexto mobiliza e que efeito produz?
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
 - [ ] Arte moderna
-- [ ] Arte contemporanea
+- [ ] Arte contemporânea
 - [ ] Cultura popular
-- [ ] Patrimonio material e imaterial
+- [ ] Patrimônio material e imaterial
 - [ ] Leitura de imagem
-- [ ] Arte e politica
+- [ ] Arte e política
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 5 a 10 questoes semanais de artes e textos multimodais.
+Resolva 5 a 10 questões semanais de artes e textos multimodais.
 
 ## Erros comuns
 
 - Tentar decorar nomes sem analisar a obra.
-- Ignorar contexto historico.
+- Ignorar contexto histórico.
 - Tratar arte como gosto pessoal.
 
 ## Resumo final
 
-Artes no ENEM e leitura critica de producoes culturais.
+Artes no ENEM é leitura crítica de produções culturais.

@@ -1,21 +1,21 @@
 # Filosofia
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Filosofia cobra interpretacao de textos curtos, conceitos de etica, politica, conhecimento, cidadania e democracia.
+Filosofia cobra interpretação de textos curtos, conceitos de ética, política, conhecimento, cidadania e democracia.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Etica, politica, cidadania, democracia, contratualismo, Iluminismo |
-| Media | Filosofia antiga, moderna, conhecimento, liberdade |
-| Baixa | Biografias de filosofos e terminologia sem aplicacao |
+| Alta | Ética, política, cidadania, democracia, contratualismo, Iluminismo |
+| Média | Filosofia antiga, moderna, conhecimento, liberdade |
+| Baixa | Biografias de filosofos e terminologia sem aplicação |
 
 ## Ordem recomendada de estudo
 
-1. Etica e moral.
-2. Politica e cidadania.
+1. Ética e moral.
+2. Política e cidadania.
 3. Filosofia antiga.
 4. Contratualismo.
 5. Iluminismo.
@@ -25,27 +25,27 @@ Filosofia cobra interpretacao de textos curtos, conceitos de etica, politica, co
 
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
-| Pagina de Filosofia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/filosofia/) | Para revisar autores, conceitos e escolas |
-| Iluminismo | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiag/iluminismo.htm) | Antes de democracia, razao e politica |
-| Exercicios Brasil Escola | Media | [Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de revisar conceitos |
+| Página de Filosofia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/filosofia/) | Para revisar autores, conceitos e escolas |
+| Iluminismo | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiag/iluminismo.htm) | Antes de democracia, razão e política |
+| Exercícios Brasil Escola | Média | [Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de revisar conceitos |
 
 ## Como o ENEM costuma cobrar
 
-O ENEM apresenta um texto de autor ou comentario e pede identificar ideia central, conceito ou aplicacao social.
+O ENEM apresenta um texto de autor ou comentário e pede identificar ideia central, conceito ou aplicação social.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Relacionar contratualismo a Estado, liberdade e seguranca.
-- Interpretar conceito de etica em dilema social.
-- Associar Iluminismo a cidadania, razao e democracia.
+- Relacionar contratualismo a Estado, liberdade e segurança.
+- Interpretar conceito de ética em dilema social.
+- Associar Iluminismo a cidadania, razão e democracia.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
-Estude conceitos-chave e resolva questoes comentadas. Para cada autor, registre uma ideia principal e um exemplo.
+Estude conceitos-chave e resolva questões comentadas. Para cada autor, registre uma ideia principal e um exemplo.
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
-- [ ] Etica
+- [ ] Ética
 - [ ] Democracia
 - [ ] Cidadania
 - [ ] Estado
@@ -53,13 +53,13 @@ Estude conceitos-chave e resolva questoes comentadas. Para cada autor, registre 
 - [ ] Hobbes, Locke e Rousseau
 - [ ] Iluminismo
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 10 a 15 questoes por semana e crie fichas de conceitos.
+Resolva 10 a 15 questões por semana e crie fichas de conceitos.
 
 ## Erros comuns
 
-- Ler o texto como opiniao solta.
+- Ler o texto como opinião solta.
 - Confundir autores contratualistas.
 - Decorar frase sem entender conceito.
 

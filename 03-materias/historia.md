@@ -1,73 +1,73 @@
-# Historia
+# História
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Historia avalia processos sociais, politicos, economicos e culturais. A prova cobra interpretacao de fontes, imagens, textos e contextos.
+História avalia processos sociais, políticos, econômicos e culturais. A prova cobra interpretação de fontes, imagens, textos e contextos.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Brasil Colonia, escravidao, Republica, Era Vargas, Ditadura Militar, redemocratizacao, movimentos sociais |
-| Media | Brasil Imperio, revolucoes industriais, guerras mundiais, Guerra Fria |
-| Baixa | Datas isoladas e batalhas muito especificas |
+| Alta | Brasil Colônia, escravidão, República, Era Vargas, Ditadura Militar, redemocratização, movimentos sociais |
+| Média | Brasil Império, revoluções industriais, guerras mundiais, Guerra Fria |
+| Baixa | Datas isoladas e batalhas muito específicas |
 
 ## Ordem recomendada de estudo
 
-1. Colonia e escravidao.
-2. Imperio e abolicao.
-3. Republica Velha.
+1. Colônia e escravidão.
+2. Império e abolição.
+3. República Velha.
 4. Era Vargas.
-5. Ditadura Militar e redemocratizacao.
+5. Ditadura Militar e redemocratização.
 6. Mundo contemporaneo.
-7. Historia indigena e africana.
+7. História indígena e africana.
 
 ## Links Brasil Escola por assunto
 
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
-| Brasil Colonia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm) | Semanas 1 e 3 |
-| Escravidao no Brasil | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm) | Semana 2 e revisao final |
-| Brasil Imperio | Media | [Brasil Escola](https://brasilescola.uol.com.br/historiab/brasil-monarquia.htm) | Semanas 3 e 4 |
+| Brasil Colônia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm) | Semanas 1 e 3 |
+| Escravidão no Brasil | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm) | Semana 2 e revisão final |
+| Brasil Império | Média | [Brasil Escola](https://brasilescola.uol.com.br/historiab/brasil-monarquia.htm) | Semanas 3 e 4 |
 | Era Vargas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/era-vargas.htm) | Semana 5 |
-| Ditadura Militar | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/ditadura-militar.htm) | Semana 6 e revisao final |
-| Revolucao Industrial | Media | [Brasil Escola](https://brasilescola.uol.com.br/historiag/revolucao-industrial.htm) | Antes de trabalho, industria e tecnologia |
-| Guerra Fria | Media | [Brasil Escola](https://brasilescola.uol.com.br/historiag/guerra-fria.htm) | Semana 7 e Humanas contextualizadas |
+| Ditadura Militar | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/ditadura-militar.htm) | Semana 6 e revisão final |
+| Revolução Industrial | Média | [Brasil Escola](https://brasilescola.uol.com.br/historiag/revolucao-industrial.htm) | Antes de trabalho, indústria e tecnologia |
+| Guerra Fria | Média | [Brasil Escola](https://brasilescola.uol.com.br/historiag/guerra-fria.htm) | Semana 7 e Humanas contextualizadas |
 
 ## Como o ENEM costuma cobrar
 
-Com fontes historicas, charges, documentos e textos. A questao geralmente pede interpretacao do processo, nao memorizacao de data.
+Com fontes históricas, charges, documentos e textos. A questão geralmente pede interpretação do processo, não memorização de data.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Interpretar fonte sobre escravidao, resistencia ou cidadania.
-- Relacionar Era Vargas a trabalho e industrializacao.
+- Interpretar fonte sobre escravidão, resistência ou cidadania.
+- Relacionar Era Vargas a trabalho e industrialização.
 - Analisar autoritarismo, censura e democracia no contexto da Ditadura Militar.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
-Monte linhas do tempo e relacione causas, consequencias e permanencias. Use questoes para identificar temas recorrentes.
+Monte linhas do tempo e relacione causas, consequencias e permanencias. Use questões para identificar temas recorrentes.
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
-- [ ] Escravidao e resistencia
-- [ ] Formacao do Brasil
+- [ ] Escravidão e resistência
+- [ ] Formação do Brasil
 - [ ] Cidadania
 - [ ] Trabalhismo
 - [ ] Autoritarismo
 - [ ] Movimentos sociais
-- [ ] Historia indigena e africana
+- [ ] História indígena e africana
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 20 a 30 questoes por semana, priorizando fontes e interpretacao.
+Resolva 20 a 30 questões por semana, priorizando fontes e interpretação.
 
 ## Erros comuns
 
 - Decorar datas sem processo.
 - Ignorar o texto-base.
-- Confundir periodos republicanos.
+- Confundir períodos republicanos.
 
 ## Resumo final
 
-Historia exige compreender mudancas, permanencias e disputas sociais.
+História exige compreender mudanças, permanencias e disputas sociais.

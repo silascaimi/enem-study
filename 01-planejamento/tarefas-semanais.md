@@ -1,38 +1,38 @@
 # Tarefas semanais
 
-Use este arquivo como lista operacional. Repita o ciclo a cada semana, ajustando os conteudos conforme o cronograma.
+Use este arquivo como lista operacional. Repita o ciclo a cada semana, ajustando os conteúdos conforme o cronograma.
 
 ## Segunda
 
-- [ ] 1 bloco de teoria de Matematica
-- [ ] 15 questoes de Matematica
-- [ ] 1 bloco de interpretacao de texto
+- [ ] 1 bloco de teoria de Matemática
+- [ ] 15 questões de Matemática
+- [ ] 1 bloco de interpretação de texto
 
-## Terca
+## Terça
 
 - [ ] 1 bloco de Natureza
-- [ ] 20 questoes da disciplina do dia
+- [ ] 20 questões da disciplina do dia
 - [ ] Registrar erros
 
 ## Quarta
 
 - [ ] 1 bloco de Humanas
-- [ ] Planejar ou escrever redacao
-- [ ] Revisar repertorios
+- [ ] Planejar ou escrever redação
+- [ ] Revisar repertórios
 
 ## Quinta
 
-- [ ] 1 bloco de Matematica
+- [ ] 1 bloco de Matemática
 - [ ] 1 bloco de Natureza
-- [ ] Refazer 5 questoes erradas
+- [ ] Refazer 5 questões erradas
 
 ## Sexta
 
 - [ ] 1 bloco de Linguagens
 - [ ] 1 bloco de Humanas
-- [ ] Revisao curta da semana
+- [ ] Revisão curta da semana
 
-## Sabado
+## Sábado
 
 - [ ] Lista mista ou simulado
 - [ ] Corrigir com calma
@@ -40,7 +40,7 @@ Use este arquivo como lista operacional. Repita o ciclo a cada semana, ajustando
 
 ## Domingo
 
-- [ ] Revisao semanal
+- [ ] Revisão semanal
 - [ ] Organizar pendencias
-- [ ] Definir meta da proxima semana
+- [ ] Definir meta da próxima semana
 

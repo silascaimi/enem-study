@@ -1,25 +1,25 @@
 # Biologia
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Biologia e muito cobrada em temas de ecologia, saude, genetica, evolucao e sustentabilidade. A prova valoriza aplicacao em problemas reais.
+Biologia é muito cobrada em temas de ecologia, saúde, genética, evolução e sustentabilidade. A prova valoriza aplicação em problemas reais.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Ecologia, cadeias alimentares, ciclos biogeoquimicos, saude publica, vacinas, sustentabilidade |
-| Media | Genetica, evolucao, citologia, fisiologia humana, biotecnologia |
-| Baixa | Taxonomia detalhada e nomes muito especificos |
+| Alta | Ecologia, cadeias alimentares, ciclos biogeoquímicos, saúde pública, vacinas, sustentabilidade |
+| Média | Genética, evolução, citologia, fisiologia humana, biotecnologia |
+| Baixa | Taxonomia detalhada e nomes muito específicos |
 
 ## Ordem recomendada de estudo
 
 1. Ecologia.
 2. Ciclos e impactos ambientais.
-3. Saude publica e doencas.
+3. Saúde pública e doenças.
 4. Citologia.
-5. Genetica.
-6. Evolucao.
+5. Genética.
+6. Evolução.
 7. Fisiologia e biotecnologia.
 
 ## Links Brasil Escola por assunto
@@ -27,49 +27,49 @@ Biologia e muito cobrada em temas de ecologia, saude, genetica, evolucao e suste
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
 | Ecologia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/biologia/ecologia.htm) | Semanas 1 e 13 |
-| Ciclos biogeoquimicos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/biologia/ciclos-biogeoquimicos.htm) | Semanas 2 e 3 |
-| Vacinas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/saude/vacinas.htm) | Semana 8 e saude publica |
-| Citologia | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/nivel-celula.htm) | Antes de fisiologia e genetica |
-| Anatomia humana | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/anatomia-humana.htm) | Revisao de fisiologia humana |
-| DNA | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/dna.htm) | Antes de genetica e biotecnologia |
-| Primeira Lei de Mendel | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/primeira-lei-mendel.htm) | Para genetica basica |
-| Biologia evolutiva | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/biologia-evolutiva.htm) | Antes de evolucao e adaptacao |
+| Ciclos biogeoquímicos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/biologia/ciclos-biogeoquimicos.htm) | Semanas 2 e 3 |
+| Vacinas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/saude/vacinas.htm) | Semana 8 e saúde pública |
+| Citologia | Média | [Brasil Escola](https://brasilescola.uol.com.br/biologia/nivel-celula.htm) | Antes de fisiologia e genética |
+| Anatomia humana | Média | [Brasil Escola](https://brasilescola.uol.com.br/biologia/anatomia-humana.htm) | Revisão de fisiologia humana |
+| DNA | Média | [Brasil Escola](https://brasilescola.uol.com.br/biologia/dna.htm) | Antes de genética e biotecnologia |
+| Primeira Lei de Mendel | Média | [Brasil Escola](https://brasilescola.uol.com.br/biologia/primeira-lei-mendel.htm) | Para genética básica |
+| Biologia evolutiva | Média | [Brasil Escola](https://brasilescola.uol.com.br/biologia/biologia-evolutiva.htm) | Antes de evolução e adaptação |
 
 ## Como o ENEM costuma cobrar
 
-Com situacoes ambientais, campanhas de saude, graficos, experimentos e problemas de sustentabilidade.
+Com situações ambientais, campanhas de saúde, gráficos, experimentos e problemas de sustentabilidade.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Avaliar bioacumulacao em uma cadeia alimentar.
-- Relacionar vacinacao a imunidade coletiva.
-- Interpretar impacto humano nos ciclos do carbono, nitrogenio ou agua.
+- Avaliar bioacumulação em uma cadeia alimentar.
+- Relacionar vacinação a imunidade coletiva.
+- Interpretar impacto humano nos ciclos do carbono, nitrogênio ou água.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
-Entenda processos e relacoes de causa e consequencia. Use esquemas para ciclos, cadeias e sistemas do corpo.
+Entenda processos e relações de causa e consequencia. Use esquemas para ciclos, cadeias e sistemas do corpo.
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
 - [ ] Ecologia
 - [ ] Fluxo de energia
-- [ ] Ciclos do carbono, nitrogenio e agua
+- [ ] Ciclos do carbono, nitrogênio e água
 - [ ] Vacinas
-- [ ] Doencas
-- [ ] Genetica
-- [ ] Evolucao
+- [ ] Doenças
+- [ ] Genética
+- [ ] Evolução
 - [ ] Biotecnologia
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 25 a 40 questoes por semana, com foco em ecologia e saude.
+Resolva 25 a 40 questões por semana, com foco em ecologia e saúde.
 
 ## Erros comuns
 
 - Decorar termos sem entender processo.
 - Confundir cadeia e teia alimentar.
-- Interpretar evolucao como melhoria.
+- Interpretar evolução como melhoria.
 
 ## Resumo final
 
-Biologia no ENEM e ciencia aplicada a ambiente, saude e vida cotidiana.
+Biologia no ENEM é ciência aplicada a ambiente, saúde e vida cotidiana.

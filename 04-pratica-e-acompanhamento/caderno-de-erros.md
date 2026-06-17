@@ -2,36 +2,36 @@
 
 ## Como usar
 
-Registre todo erro importante. O objetivo e transformar erro em pauta de revisao.
+Registre todo erro importante. O objetivo é transformar erro em pauta de revisão.
 
-| Data | Area | Disciplina | Assunto/habilidade | Dificuldade | Tipo de erro | Causa raiz | Correcao | Revisao 1 dia | Revisao 7 dias | Revisao 30 dias | Status |
+| Data | Área | Disciplina | Assunto/habilidade | Dificuldade | Tipo de erro | Causa raiz | Correção | Revisão 1 dia | Revisão 7 dias | Revisão 30 dias | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| | | | | Baixa / media / alta | Conteudo / interpretacao / calculo / distracao / tempo | | | | | | |
+| | | | | Baixa / média / alta | Conteúdo / interpretação / cálculo / distração / tempo | | | | | | |
 
 ## Tipos de causa raiz
 
 | Causa | Como agir |
 |---|---|
-| Falta de teoria | Voltar ao resumo ou artigo de apoio e resolver 10 questoes faceis. |
-| Erro de leitura | Grifar comando, dados e o que a questao pede antes de resolver. |
-| Erro de formula | Atualizar [formularios-rapidos.md](../06-recursos/formularios-rapidos.md) e refazer 5 questoes. |
-| Falta de tempo | Treinar bloco cronometrado com questoes faceis primeiro. |
-| Distracao | Criar checklist de conferencia: unidade, sinal, alternativa e comando. |
-| Repertorio fraco | Revisar banco de temas, tese e repertorio antes da proxima redacao. |
+| Falta de teoria | Voltar ao resumo ou artigo de apoio e resolver 10 questões fáceis. |
+| Erro de leitura | Grifar comando, dados e o que a questão pede antes de resolver. |
+| Erro de fórmula | Atualizar [formularios-rapidos.md](../06-recursos/formularios-rapidos.md) e refazer 5 questões. |
+| Falta de tempo | Treinar bloco cronometrado com questões fáceis primeiro. |
+| Distração | Criar checklist de conferencia: unidade, sinal, alternativa e comando. |
+| Repertório fraco | Revisar banco de temas, tese e repertório antes da próxima redação. |
 
-## Analise semanal
+## Análise semanal
 
 | Pergunta | Resposta |
 |---|---|
 | Qual erro mais apareceu? | |
 | Qual assunto precisa de teoria? | |
-| Qual assunto precisa de questoes? | |
+| Qual assunto precisa de questões? | |
 | Qual erro foi por pressa? | |
-| O que sera revisado na proxima semana? | |
+| O que sera revisado na próxima semana? | |
 
-## Revisoes programadas
+## Revisões programadas
 
-| Data da revisao | Itens para refazer | Resultado | Proxima acao |
+| Data da revisão | Itens para refazer | Resultado | Próxima ação |
 |---|---|---|---|
 | 1 dia depois | | | |
 | 7 dias depois | | | |

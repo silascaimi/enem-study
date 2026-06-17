@@ -1,75 +1,75 @@
-# Fisica
+# Física
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Fisica cobra energia, movimento, eletricidade, ondas, calor e fenomenos do cotidiano. A interpretacao do enunciado e das unidades pesa muito.
+Física cobra energia, movimento, eletricidade, ondas, calor e fenômenos do cotidiano. A interpretação do enunciado e das unidades pesa muito.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Mecanica, energia, potencia, eletricidade, circuitos, unidades |
-| Media | Ondulatoria, optica, termologia, hidrostatica, dinamica |
-| Baixa | Demonstracoes matematicas e formulas muito especificas |
+| Alta | Mecânica, energia, potência, eletricidade, circuitos, unidades |
+| Média | Ondulatoria, óptica, termologia, hidrostática, dinâmica |
+| Baixa | Demonstrações matemáticas e fórmulas muito específicas |
 
 ## Ordem recomendada de estudo
 
 1. Grandezas e unidades.
-2. Cinematica.
-3. Dinamica.
-4. Energia, trabalho e potencia.
+2. Cinemática.
+3. Dinâmica.
+4. Energia, trabalho e potência.
 5. Eletricidade e circuitos.
-6. Ondas e optica.
-7. Termologia e hidrostatica.
+6. Ondas e óptica.
+7. Termologia e hidrostática.
 
 ## Links Brasil Escola por assunto
 
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
-| Cinematica | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/introducao-cinematica.htm) | Semanas 4 e 10 |
-| Movimento uniforme | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/movimento-uniforme.htm) | Antes de velocidade media e graficos |
-| Leis de Newton | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/leis-newton.htm) | Antes de dinamica e forcas |
+| Cinemática | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/introducao-cinematica.htm) | Semanas 4 e 10 |
+| Movimento uniforme | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/movimento-uniforme.htm) | Antes de velocidade média e gráficos |
+| Leis de Newton | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/leis-newton.htm) | Antes de dinâmica e forças |
 | Energia e trabalho | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/trabalho.htm) | Semanas 8 e 11 |
-| Circuitos eletricos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/circuitos-eletricos.htm) | Semanas 6 e 14 |
-| Hidrostatica | Media | [Brasil Escola](https://brasilescola.uol.com.br/fisica/hidrostatica.htm) | Revisao de fluidos e pressao |
+| Circuitos elétricos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/fisica/circuitos-eletricos.htm) | Semanas 6 e 14 |
+| Hidrostática | Média | [Brasil Escola](https://brasilescola.uol.com.br/fisica/hidrostatica.htm) | Revisão de fluidos e pressão |
 
 ## Como o ENEM costuma cobrar
 
-Com eletrodomesticos, transporte, seguranca, consumo de energia, som, luz, calor e maquinas.
+Com eletrodomésticos, transporte, segurança, consumo de energia, som, luz, calor e máquinas.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Comparar consumo de energia de eletrodomesticos.
-- Interpretar velocidade media em transporte urbano.
-- Aplicar leis de Newton a seguranca, atrito ou movimento.
+- Comparar consumo de energia de eletrodomésticos.
+- Interpretar velocidade média em transporte urbano.
+- Aplicar leis de Newton a segurança, atrito ou movimento.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
-Antes da formula, identifique grandezas, unidades e fenomeno fisico. Desenhe esquemas simples.
+Antes da fórmula, identifique grandezas, unidades e fenômeno físico. Desenhe esquemas simples.
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
-- [ ] Velocidade media
-- [ ] Aceleracao
-- [ ] Forca
+- [ ] Velocidade média
+- [ ] Aceleração
+- [ ] Força
 - [ ] Energia
-- [ ] Potencia
+- [ ] Potência
 - [ ] Lei de Ohm
 - [ ] Circuitos
 - [ ] Ondas
 - [ ] Calor
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 20 a 35 questoes por semana, principalmente de energia, eletricidade e mecanica.
+Resolva 20 a 35 questões por semana, principalmente de energia, eletricidade e mecânica.
 
 ## Erros comuns
 
 - Usar unidade errada.
-- Escolher formula sem entender fenomeno.
-- Ignorar grafico.
-- Confundir potencia e energia.
+- Escolher fórmula sem entender fenômeno.
+- Ignorar gráfico.
+- Confundir potência e energia.
 
 ## Resumo final
 
-Fisica no ENEM e leitura de fenomenos cotidianos com unidades, conceitos e poucas formulas bem usadas.
+Física no ENEM é leitura de fenômenos cotidianos com unidades, conceitos e poucas fórmulas bem usadas.

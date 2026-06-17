@@ -1,37 +1,37 @@
-# Metodo de estudo
+# Método de estudo
 
-## Tecnicas essenciais
+## Técnicas essenciais
 
-| Metodo | Como aplicar |
+| Método | Como aplicar |
 |---|---|
-| Estudo ativo | Explique o conteudo em voz alta, resolva questoes e crie perguntas. |
+| Estudo ativo | Explique o conteúdo em voz alta, resolva questões e crie perguntas. |
 | Pomodoro | Use blocos de 25 a 50 min com pausas curtas. |
-| Revisao espacada | Revise apos 1 dia, 7 dias e 30 dias. |
-| Questoes comentadas | Leia a resolucao apenas depois de tentar. |
-| Caderno de erros | Registre erro, causa, correcao e revisao futura. |
+| Revisão espacada | Revise após 1 dia, 7 dias e 30 dias. |
+| Questões comentadas | Leia a resolução apenas depois de tentar. |
+| Caderno de erros | Registre erro, causa, correção e revisão futura. |
 | Mapas mentais | Use para Humanas, Biologia e Literatura. |
-| Resumos inteligentes | Resuma processos, formulas, exemplos e pegadinhas. |
-| Estudo por questoes | Comece pelo assunto, resolva prova antiga e corrija por habilidade. |
-| Revisao de redacao | Reescreva introducao, topicos frasais e proposta de intervencao. |
+| Resumos inteligentes | Resuma processos, fórmulas, exemplos e pegadinhas. |
+| Estudo por questões | Comece pelo assunto, resolva prova antiga e corrija por habilidade. |
+| Revisão de redação | Reescreva introdução, tópicos frasais e proposta de intervenção. |
 
-## Equilibrio teoria e pratica
+## Equilíbrio teoria e prática
 
-| Fase | Teoria | Questoes | Revisao | Redacao |
+| Fase | Teoria | Questões | Revisão | Redação |
 |---|---:|---:|---:|---:|
-| Mes 1 | 45% | 35% | 10% | 10% |
-| Mes 2 | 35% | 45% | 10% | 10% |
-| Mes 3 | 20% | 55% | 10% | 15% |
-| Mes 4 | 15% | 45% | 20% | 20% |
+| Mês 1 | 45% | 35% | 10% | 10% |
+| Mês 2 | 35% | 45% | 10% | 10% |
+| Mês 3 | 20% | 55% | 10% | 15% |
+| Mês 4 | 15% | 45% | 20% | 20% |
 
-## Rotinas diarias modelo
+## Rotinas diárias modelo
 
-| Opcao | Teoria | Questoes | Revisao | Redacao |
+| Opção | Teoria | Questões | Revisão | Redação |
 |---|---|---|---|---|
 | 2 horas por dia | 45 min | 45 min | 20 min | 10 min ou 1 bloco maior na semana |
 | 3 horas por dia | 60 min | 75 min | 25 min | 20 min |
 | 4 horas por dia | 80 min | 100 min | 35 min | 25 min |
 
-## Pouco tempo disponivel
+## Pouco tempo disponível
 
-Use ciclos de 4 blocos: matematica, interpretacao, redacao e caderno de erros. Quando nao der para estudar tudo, mantenha as tarefas que geram feedback: questoes corrigidas, redacao corrigida e revisao dos erros.
+Use ciclos de 4 blocos: matemática, interpretação, redação e caderno de erros. Quando não der para estudar tudo, mantenha as tarefas que geram feedback: questões corrigidas, redação corrigida e revisão dos erros.
 

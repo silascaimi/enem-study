@@ -1,76 +1,76 @@
-# Quimica
+# Química
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Quimica aparece em contextos ambientais, industriais, energeticos, alimentares e de saude. A prova cobra conceitos aplicados e calculos basicos.
+Química aparece em contextos ambientais, industriais, energéticos, alimentares e de saúde. A prova cobra conceitos aplicados e cálculos básicos.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Estequiometria, solucoes, quimica ambiental, separacao de misturas |
-| Media | Ligacoes quimicas, reacoes, funcoes organicas, eletroquimica, termoquimica |
-| Baixa | Nomenclaturas muito extensas sem aplicacao |
+| Alta | Estequiometria, soluções, química ambiental, separação de misturas |
+| Média | Ligações químicas, reações, funções orgânicas, eletroquímica, termoquímica |
+| Baixa | Nomenclaturas muito extensas sem aplicação |
 
 ## Ordem recomendada de estudo
 
-1. Materia, misturas e separacao.
+1. Matéria, misturas e separação.
 2. Mol, massa molar e estequiometria.
-3. Solucoes e concentracao.
-4. Reacoes e ligacoes.
-5. Quimica ambiental.
-6. Organica.
-7. Eletroquimica, termoquimica e radioatividade.
+3. Soluções e concentração.
+4. Reações e ligações.
+5. Química ambiental.
+6. Orgânica.
+7. Eletroquímica, termoquímica e radioatividade.
 
 ## Links Brasil Escola por assunto
 
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
 | Estequiometria | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/estequiometria.htm) | Semanas 5 e 9 |
-| Solucoes | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/solucoes.htm) | Semanas 3 e 5 |
-| Separacao de misturas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/separacao-misturas.htm) | Antes de tratamento de agua e petroleo |
-| Ligacoes quimicas | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/ligacoes-quimicas.htm) | Antes de reacoes e materiais |
-| Funcoes organicas | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/funcoes-organicas.htm) | Semanas 10 e 14 |
-| pH e pOH | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/kwphpoh.htm) | Quimica ambiental e solucoes |
-| Termoquimica | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/termoquimica-.htm) | Antes de combustiveis e energia |
-| Pilhas e baterias | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/pilhas-baterias.htm) | Antes de eletroquimica |
-| Eletrolise | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/eletrolise.htm) | Revisao de eletroquimica |
+| Soluções | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/solucoes.htm) | Semanas 3 e 5 |
+| Separação de misturas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/separacao-misturas.htm) | Antes de tratamento de água e petróleo |
+| Ligações químicas | Média | [Brasil Escola](https://brasilescola.uol.com.br/quimica/ligacoes-quimicas.htm) | Antes de reações e materiais |
+| Funções orgânicas | Média | [Brasil Escola](https://brasilescola.uol.com.br/quimica/funcoes-organicas.htm) | Semanas 10 e 14 |
+| pH e pOH | Média | [Brasil Escola](https://brasilescola.uol.com.br/quimica/kwphpoh.htm) | Química ambiental e soluções |
+| Termoquímica | Média | [Brasil Escola](https://brasilescola.uol.com.br/quimica/termoquimica-.htm) | Antes de combustíveis e energia |
+| Pilhas e baterias | Média | [Brasil Escola](https://brasilescola.uol.com.br/quimica/pilhas-baterias.htm) | Antes de eletroquímica |
+| Eletrólise | Média | [Brasil Escola](https://brasilescola.uol.com.br/quimica/eletrolise.htm) | Revisão de eletroquímica |
 
 ## Como o ENEM costuma cobrar
 
-Por meio de tratamento de agua, poluicao, combustiveis, alimentos, medicamentos, baterias e processos industriais.
+Por meio de tratamento de água, poluição, combustíveis, alimentos, medicamentos, baterias e processos industriais.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Calcular concentracao em solucao de uso cotidiano.
-- Escolher metodo de separacao de misturas no tratamento de agua.
-- Interpretar pilhas, combustiveis ou reacoes em contexto ambiental.
+- Calcular concentração em solução de uso cotidiano.
+- Escolher método de separação de misturas no tratamento de água.
+- Interpretar pilhas, combustíveis ou reações em contexto ambiental.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
-Aprenda conceito, unidade e aplicacao. Em calculos, escreva dados e use proporcao.
+Aprenda conceito, unidade e aplicação. Em cálculos, escreva dados e use proporção.
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
-- [ ] Separacao de misturas
+- [ ] Separação de misturas
 - [ ] Estequiometria
-- [ ] Solucoes
+- [ ] Soluções
 - [ ] pH
-- [ ] Quimica ambiental
-- [ ] Funcoes organicas
-- [ ] Pilhas e eletrolise
-- [ ] Termoquimica
+- [ ] Química ambiental
+- [ ] Funções orgânicas
+- [ ] Pilhas e eletrólise
+- [ ] Termoquímica
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 20 a 35 questoes por semana, alternando teoria aplicada e calculos.
+Resolva 20 a 35 questões por semana, alternando teoria aplicada e cálculos.
 
 ## Erros comuns
 
-- Nao balancear equacao.
-- Errar unidade de concentracao.
-- Decorar formulas sem interpretar contexto.
+- Não balancear equação.
+- Errar unidade de concentração.
+- Decorar fórmulas sem interpretar contexto.
 
 ## Resumo final
 
-Quimica no ENEM e aplicacao de conceitos a problemas ambientais, tecnologicos e cotidianos.
+Química no ENEM e aplicação de conceitos a problemas ambientais, tecnologicos e cotidianos.

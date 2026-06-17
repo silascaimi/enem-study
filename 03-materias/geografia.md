@@ -1,67 +1,67 @@
 # Geografia
 
-## Importancia no ENEM
+## Importância no ENEM
 
-Geografia conecta territorio, sociedade, economia, ambiente e atualidades. A prova cobra mapas, graficos, problemas urbanos e ambientais.
+Geografia conecta território, sociedade, economia, ambiente e atualidades. A prova cobra mapas, gráficos, problemas urbanos e ambientais.
 
-## Principais assuntos cobrados nos ultimos anos
+## Principais assuntos cobrados nos últimos anos
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Urbanizacao, globalizacao, meio ambiente, geopolitica, energia, agropecuaria |
-| Media | Climatologia, cartografia, migracoes, industrializacao |
-| Baixa | Nomenclaturas fisicas muito especificas sem contexto |
+| Alta | Urbanização, globalização, meio ambiente, geopolítica, energia, agropecuária |
+| Média | Climatologia, cartografia, migrações, industrialização |
+| Baixa | Nomenclaturas físicas muito específicas sem contexto |
 
 ## Ordem recomendada de estudo
 
 1. Cartografia e leitura de mapas.
-2. Urbanizacao e populacao.
-3. Globalizacao e geopolitica.
+2. Urbanização e população.
+3. Globalização e geopolítica.
 4. Meio ambiente e clima.
-5. Energia, industria e agropecuaria.
-6. Migracoes e problemas socioambientais.
+5. Energia, indústria e agropecuária.
+6. Migrações e problemas socioambientais.
 
 ## Links Brasil Escola por assunto
 
 | Assunto | Prioridade | Link | Quando usar |
 |---|---|---|---|
 | Geografia urbana | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/geografia-urbana.htm) | Semanas 5 e 10 |
-| Globalizacao | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/globalizacao.htm) | Semanas 6 e 11 |
-| Aquecimento global | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/aquecimento-global.htm) | Semana 7 e revisao final |
+| Globalização | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/globalizacao.htm) | Semanas 6 e 11 |
+| Aquecimento global | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/aquecimento-global.htm) | Semana 7 e revisão final |
 | Biomas brasileiros | Alta | [Brasil Escola](https://brasilescola.uol.com.br/brasil/biomas-brasileiros.htm) | Natureza e Humanas ambientais |
 | Fontes de energia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/fontes-energia.htm) | Semanas 8, 10 e 14 |
-| Cartografia | Media | [Brasil Escola](https://brasilescola.uol.com.br/geografia/cartografia.htm) | Antes de mapas e escalas |
-| Elementos de um mapa | Media | [Brasil Escola](https://brasilescola.uol.com.br/geografia/elementos-um-mapa.htm) | Revisao de mapas, legendas e escalas |
-| Questao agraria no Brasil | Media | [Brasil Escola](https://brasilescola.uol.com.br/brasil/questao-agraria-no-brasil.htm) | Antes de agropecuaria e conflitos no campo |
+| Cartografia | Média | [Brasil Escola](https://brasilescola.uol.com.br/geografia/cartografia.htm) | Antes de mapas e escalas |
+| Elementos de um mapa | Média | [Brasil Escola](https://brasilescola.uol.com.br/geografia/elementos-um-mapa.htm) | Revisão de mapas, legendas e escalas |
+| Questão agrária no Brasil | Média | [Brasil Escola](https://brasilescola.uol.com.br/brasil/questao-agraria-no-brasil.htm) | Antes de agropecuária e conflitos no campo |
 
 ## Como o ENEM costuma cobrar
 
-As questoes apresentam mapas, graficos, noticias e situacoes-problema. A resposta depende de interpretar espaco, escala e relacoes sociais.
+As questões apresentam mapas, gráficos, notícias e situações-problema. A resposta depende de interpretar espaço, escala e relações sociais.
 
-## Exemplos de cobranca
+## Exemplos de cobrança
 
-- Ler mapa de biomas, urbanizacao ou fluxos migratorios.
-- Relacionar globalizacao a producao, consumo e desigualdade.
-- Avaliar impactos ambientais de energia, agropecuaria ou industria.
+- Ler mapa de biomas, urbanização ou fluxos migratorios.
+- Relacionar globalização a produção, consumo e desigualdade.
+- Avaliar impactos ambientais de energia, agropecuária ou indústria.
 
-## Estrategia de estudo
+## Estratégia de estudo
 
 Associe conceitos a exemplos atuais. Treine leitura de mapas, legendas, escalas e indicadores.
 
-## Lista de topicos para revisao
+## Lista de tópicos para revisão
 
-- [ ] Urbanizacao
-- [ ] Segregacao socioespacial
-- [ ] Globalizacao
-- [ ] Geopolitica
+- [ ] Urbanização
+- [ ] Segregação socioespacial
+- [ ] Globalização
+- [ ] Geopolítica
 - [ ] Biomas e clima
 - [ ] Energia
 - [ ] Cartografia
-- [ ] Agropecuaria
+- [ ] Agropecuária
 
-## Questoes e pratica
+## Questões e prática
 
-Resolva 20 a 30 questoes por semana, incluindo mapas e graficos.
+Resolva 20 a 30 questões por semana, incluindo mapas e gráficos.
 
 ## Erros comuns
 
@@ -71,4 +71,4 @@ Resolva 20 a 30 questoes por semana, incluindo mapas e graficos.
 
 ## Resumo final
 
-Geografia e leitura critica do espaco e das relacoes humanas com o ambiente.
+Geografia e leitura crítica do espaço e das relações humanas com o ambiente.

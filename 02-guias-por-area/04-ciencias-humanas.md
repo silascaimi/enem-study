@@ -1,81 +1,81 @@
-# Ciencias Humanas
+# Ciências Humanas
 
 ## Por que isso e prioridade?
 
-| Criterio | Conteudos | Motivo |
+| Critério | Conteúdos | Motivo |
 |---|---|---|
-| Alta recorrencia | Brasil Colonia, escravidao, Republica, urbanizacao, globalizacao, cidadania e movimentos sociais | Sao temas frequentes e aparecem de forma contextualizada em textos, mapas, charges e fontes historicas. |
-| Base necessaria | Linha do tempo, leitura de mapas, conceitos de Estado, cultura, trabalho e poder | A prova cobra interpretacao, nao apenas memorizacao. |
-| Revisao final | Ditadura, Era Vargas, meio ambiente, energia, democracia e desigualdade | Temas conectam conteudo historico, geografia e atualidades. |
+| Alta recorrência | Brasil Colônia, escravidão, República, urbanização, globalização, cidadania e movimentos sociais | São temas frequentes e aparecem de forma contextualizada em textos, mapas, charges e fontes históricas. |
+| Base necessária | Linha do tempo, leitura de mapas, conceitos de Estado, cultura, trabalho e poder | A prova cobra interpretação, não apenas memorização. |
+| Revisão final | Ditadura, Era Vargas, meio ambiente, energia, democracia e desigualdade | Temas conectam conteúdo histórico, geografia e atualidades. |
 
-## Exemplos de cobranca no ENEM
+## Exemplos de cobrança no ENEM
 
-| Disciplina | Exemplo de questao |
+| Disciplina | Exemplo de questão |
 |---|---|
-| Historia | Interpretar documento sobre escravidao, trabalho ou cidadania. |
-| Geografia | Ler mapa sobre urbanizacao, energia ou problemas ambientais. |
-| Filosofia | Relacionar autor ou conceito a democracia, etica ou poder. |
+| História | Interpretar documento sobre escravidão, trabalho ou cidadania. |
+| Geografia | Ler mapa sobre urbanização, energia ou problemas ambientais. |
+| Filosofia | Relacionar autor ou conceito a democracia, ética ou poder. |
 | Sociologia | Analisar desigualdade, cultura de massa, trabalho ou movimentos sociais. |
 
-## Historia
+## História
 
-| Tema | Prioridade | Como estudar | Questao comum | Relacao com atualidades |
+| Tema | Prioridade | Como estudar | Questão comum | Relação com atualidades |
 |---|---|---|---|---|
-| Brasil Colonia e escravidao | Alta | Sociedade, economia, resistencia e cultura | Interpretacao de fonte historica | Racismo estrutural e desigualdade |
-| Brasil Imperio | Media | Independencia, cidadania, cafe e escravidao | Processo politico | Formacao do Estado |
-| Republica Velha e Era Vargas | Alta | Coronelismo, industrializacao, trabalhismo | Mudancas sociais e politicas | Direitos trabalhistas |
-| Ditadura Militar e redemocratizacao | Alta | Autoritarismo, censura, resistencia | Memoria e direitos | Democracia e cidadania |
-| Historia indigena e africana | Alta | Cultura, resistencia e apagamentos | Critica a visao eurocentrica | Identidade e direitos |
-| Guerras, Guerra Fria e revolucoes industriais | Media | Contexto, tecnologia e trabalho | Consequencias sociais | Geopolitica e trabalho |
+| Brasil Colônia e escravidão | Alta | Sociedade, economia, resistência e cultura | Interpretação de fonte histórica | Racismo estrutural e desigualdade |
+| Brasil Império | Média | Independencia, cidadania, cafe e escravidão | Processo político | Formação do Estado |
+| República Velha e Era Vargas | Alta | Coronelismo, industrialização, trabalhismo | Mudanças sociais e políticas | Direitos trabalhistas |
+| Ditadura Militar e redemocratização | Alta | Autoritarismo, censura, resistência | Memória e direitos | Democracia e cidadania |
+| História indígena e africana | Alta | Cultura, resistência e apagamentos | Crítica a visão eurocentrica | Identidade e direitos |
+| Guerras, Guerra Fria e revoluções industriais | Média | Contexto, tecnologia e trabalho | Consequencias sociais | Geopolítica e trabalho |
 
 ## Geografia
 
-| Tema | Prioridade | Como estudar | Questao comum | Relacao com atualidades |
+| Tema | Prioridade | Como estudar | Questão comum | Relação com atualidades |
 |---|---|---|---|---|
-| Urbanizacao | Alta | Segregacao, mobilidade e moradia | Problemas urbanos | Transporte e periferias |
-| Globalizacao e geopolitica | Alta | Fluxos, blocos, conflitos | Interpretar mapas e textos | Conflitos e economia mundial |
-| Meio ambiente | Alta | Clima, biomas, impactos | Sustentabilidade | Crise climatica |
-| Agropecuaria e industrializacao | Media | Modernizacao, territorio e trabalho | Cadeias produtivas | Alimentos e energia |
-| Energia, cartografia e migracoes | Media | Fontes, escala, mapas e fluxos | Analise espacial | Transicao energetica |
+| Urbanização | Alta | Segregação, mobilidade e moradia | Problemas urbanos | Transporte e periferias |
+| Globalização e geopolítica | Alta | Fluxos, blocos, conflitos | Interpretar mapas e textos | Conflitos e economia mundial |
+| Meio ambiente | Alta | Clima, biomas, impactos | Sustentabilidade | Crise climática |
+| Agropecuária e industrialização | Média | Modernizacao, território e trabalho | Cadeias produtivas | Alimentos e energia |
+| Energia, cartografia e migrações | Média | Fontes, escala, mapas e fluxos | Análise espacial | Transição energética |
 
 ## Filosofia
 
-| Tema | Prioridade | Como estudar | Questao comum |
+| Tema | Prioridade | Como estudar | Questão comum |
 |---|---|---|---|
-| Etica e politica | Alta | Conceitos aplicados a dilemas sociais | Texto filosofico curto |
-| Cidadania e democracia | Alta | Participacao, direitos e poder | Relacionar teoria e pratica |
-| Filosofia antiga e moderna | Media | Platao, Aristoteles, Descartes, Kant | Ideia central do autor |
+| Ética e política | Alta | Conceitos aplicados a dilemas sociais | Texto filosofico curto |
+| Cidadania e democracia | Alta | Participação, direitos e poder | Relacionar teoria e prática |
+| Filosofia antiga e moderna | Média | Platao, Aristoteles, Descartes, Kant | Ideia central do autor |
 | Contratualismo e Iluminismo | Alta | Hobbes, Locke, Rousseau, Montesquieu | Estado, liberdade e leis |
 
 ## Sociologia
 
-| Tema | Prioridade | Como estudar | Questao comum |
+| Tema | Prioridade | Como estudar | Questão comum |
 |---|---|---|---|
-| Cultura e industria cultural | Alta | Cultura de massa, identidade e midia | Analise de fenomeno social |
+| Cultura e indústria cultural | Alta | Cultura de massa, identidade e mídia | Análise de fenômeno social |
 | Trabalho e desigualdade | Alta | Capitalismo, informalidade e classes | Contexto contemporaneo |
-| Cidadania e movimentos sociais | Alta | Direitos, participacao e lutas sociais | Relacao entre individuo e sociedade |
-| Estado, poder e globalizacao | Media | Instituicoes e dominacao | Conceito aplicado |
+| Cidadania e movimentos sociais | Alta | Direitos, participação e lutas sociais | Relação entre individuo e sociedade |
+| Estado, poder e globalização | Média | Instituições e dominacao | Conceito aplicado |
 
-## Sugestao de revisao
+## Sugestão de revisão
 
-Revise Humanas por linhas do tempo, mapas conceituais e questoes comentadas. Sempre associe conteudo a fontes, imagens, charges, mapas e problemas atuais.
+Revise Humanas por linhas do tempo, mapas conceituais e questões comentadas. Sempre associe conteúdo a fontes, imagens, charges, mapas e problemas atuais.
 
-## Links Brasil Escola para esta area
+## Links Brasil Escola para está área
 
-### Historia
+### História
 
-1. [Brasil Colonia](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm)
-2. [Escravidao no Brasil](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm)
-3. [Brasil Imperio](https://brasilescola.uol.com.br/historiab/brasil-monarquia.htm)
+1. [Brasil Colônia](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm)
+2. [Escravidão no Brasil](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm)
+3. [Brasil Império](https://brasilescola.uol.com.br/historiab/brasil-monarquia.htm)
 4. [Era Vargas](https://brasilescola.uol.com.br/historiab/era-vargas.htm)
 5. [Ditadura Militar](https://brasilescola.uol.com.br/historiab/ditadura-militar.htm)
-6. [Revolucao Industrial](https://brasilescola.uol.com.br/historiag/revolucao-industrial.htm)
+6. [Revolução Industrial](https://brasilescola.uol.com.br/historiag/revolucao-industrial.htm)
 7. [Guerra Fria](https://brasilescola.uol.com.br/historiag/guerra-fria.htm)
 
 ### Geografia
 
 1. [Geografia urbana](https://brasilescola.uol.com.br/geografia/geografia-urbana.htm)
-2. [Globalizacao](https://brasilescola.uol.com.br/geografia/globalizacao.htm)
+2. [Globalização](https://brasilescola.uol.com.br/geografia/globalizacao.htm)
 3. [Aquecimento global](https://brasilescola.uol.com.br/geografia/aquecimento-global.htm)
 4. [Biomas brasileiros](https://brasilescola.uol.com.br/brasil/biomas-brasileiros.htm)
 5. [Fontes de energia](https://brasilescola.uol.com.br/geografia/fontes-energia.htm)
@@ -86,4 +86,4 @@ Revise Humanas por linhas do tempo, mapas conceituais e questoes comentadas. Sem
 1. [Iluminismo](https://brasilescola.uol.com.br/historiag/iluminismo.htm)
 2. [Movimentos sociais](https://brasilescola.uol.com.br/sociologia/movimentos-sociais-breve-definicao.htm)
 3. [Cultura material e imaterial](https://brasilescola.uol.com.br/cultura/cultura-material-e-cultura-imaterial.htm)
-4. [Patrimonio historico cultural](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm)
+4. [Patrimônio histórico cultural](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm)
