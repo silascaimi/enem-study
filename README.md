@@ -10,6 +10,7 @@ Este projeto organiza uma preparacao completa para o ENEM em 16 semanas, com foc
 4. Registre desempenho no checklist, no caderno de erros e nas tabelas mensais.
 5. Ajuste a carga semanal conforme sua rotina, mantendo teoria, questoes, redacao e revisao.
 6. Use `links-brasil-escola-enem-2026.md` para estudar os temas da semana com apoio de artigos, exercicios, provas e simulados do Brasil Escola.
+7. Use `prompt-avaliador-redacao-enem.md` para avaliar redacoes com nota estimada por competencia, diagnostico e plano de reescrita.
 
 ## Duracao e carga sugerida
 
@@ -48,3 +49,7 @@ Se tiver ate 2 horas por dia, mantenha quatro blocos fixos: matematica basica, i
 ## Complemento Brasil Escola
 
 O arquivo [links-brasil-escola-enem-2026.md](links-brasil-escola-enem-2026.md) organiza links por area e prioridade. Use essa curadoria como apoio teorico, mantendo a ordem do plano: primeiro os assuntos de alta recorrencia, depois os de prioridade media, sempre com questoes e revisao.
+
+## Avaliador de redacao
+
+O arquivo [prompt-avaliador-redacao-enem.md](prompt-avaliador-redacao-enem.md) traz um prompt pronto para copiar em uma IA e obter uma avaliacao no modelo ENEM. Ele considera as 5 competencias, os criterios de nota zero, a estrutura dissertativo-argumentativa, a proposta de intervencao e um plano objetivo de reescrita.
