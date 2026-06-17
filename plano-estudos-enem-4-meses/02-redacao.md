@@ -80,3 +80,10 @@ Conclusao: "Portanto" + agente + acao + meio + finalidade + detalhamento.
 | 3 | 2 redacoes por semana | Velocidade, variedade tematica e correcao |
 | 4 | 2 redacoes por semana | Reescrita, nota, precisao e controle de tempo |
 
+## Links Brasil Escola para redacao
+
+1. [Texto dissertativo-argumentativo](https://brasilescola.uol.com.br/redacao/texto-dissertativo-argumentativo.htm)
+2. [Proposta de intervencao](https://brasilescola.uol.com.br/redacao/proposta-intervencao-enem.htm)
+3. [As 5 competencias da redacao do ENEM](https://brasilescola.uol.com.br/redacao/as-5-competencias-da-redacao-do-enem.htm)
+
+Use os links nas semanas 1 a 4 para estruturar o texto e volte a eles no mes 4 para revisar criterios de correcao e proposta de intervencao.

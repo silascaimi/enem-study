@@ -50,3 +50,13 @@ Revise cultura digital, linguagem de redes, hipertexto, fake news, acesso a info
 | Textos multimodais | 1 vez por semana |
 | Revisao de erros | Domingo |
 
+## Links Brasil Escola para esta area
+
+Use estes links na ordem abaixo, mantendo interpretacao como eixo central:
+
+1. [Interpretacao de textos no ENEM](https://vestibular.brasilescola.uol.com.br/enem/como-interpretar-textos-no-enem.htm)
+2. [Funcoes da linguagem](https://brasilescola.uol.com.br/gramatica/funcoes-linguagem.htm)
+3. [Linguagem verbal e nao verbal](https://brasilescola.uol.com.br/redacao/linguagem-verbal-linguagem-nao-verbal.htm)
+4. [Tipos de intertextualidade](https://brasilescola.uol.com.br/redacao/tipos-intertextualidade.htm)
+5. [Modernismo](https://brasilescola.uol.com.br/literatura/modernismo.htm)
+6. [Poesia, poema e prosa](https://brasilescola.uol.com.br/literatura/poesia-poema-prosa.htm)

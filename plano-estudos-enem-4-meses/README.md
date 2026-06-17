@@ -9,6 +9,7 @@ Este projeto organiza uma preparacao completa para o ENEM em 16 semanas, com foc
 3. Consulte os arquivos da pasta `materias/` para estudar cada disciplina.
 4. Registre desempenho no checklist, no caderno de erros e nas tabelas mensais.
 5. Ajuste a carga semanal conforme sua rotina, mantendo teoria, questoes, redacao e revisao.
+6. Use `links-brasil-escola-enem-2026.md` para estudar os temas da semana com apoio de artigos, exercicios, provas e simulados do Brasil Escola.
 
 ## Duracao e carga sugerida
 
@@ -44,3 +45,6 @@ Este projeto organiza uma preparacao completa para o ENEM em 16 semanas, com foc
 
 Se tiver ate 2 horas por dia, mantenha quatro blocos fixos: matematica basica, interpretacao, redacao e revisao de erros. Em semanas apertadas, reduza teoria e preserve questoes e correcao, porque o ENEM cobra leitura, aplicacao e resistencia de prova.
 
+## Complemento Brasil Escola
+
+O arquivo [links-brasil-escola-enem-2026.md](links-brasil-escola-enem-2026.md) organiza links por area e prioridade. Use essa curadoria como apoio teorico, mantendo a ordem do plano: primeiro os assuntos de alta recorrencia, depois os de prioridade media, sempre com questoes e revisao.

@@ -7,6 +7,14 @@
 - Matriz de Referencia do ENEM.
 - Cartilha do Participante de Redacao do ENEM.
 
+## Curadoria Brasil Escola
+
+- [O que estudar para o Enem 2026](https://vestibular.brasilescola.uol.com.br/enem/o-que-estudar-para-o-enem-2026.htm): pagina analisada para complementar este plano.
+- [Links Brasil Escola para o ENEM 2026](links-brasil-escola-enem-2026.md): roteiro interno com artigos organizados por prioridade e ordem de estudo.
+- [Provas e gabaritos](https://vestibular.brasilescola.uol.com.br/downloads): usar para simulados e correcao.
+- [Simulado ENEM](https://vestibular.brasilescola.uol.com.br/simulado/enem): usar a partir do mes 2.
+- [Exercicios Brasil Escola](https://exercicios.brasilescola.uol.com.br/): usar depois de cada bloco teorico.
+
 ## Questoes e simulados
 
 - Bancos de questoes com filtro por assunto e ano.
@@ -31,4 +39,3 @@
 - Apostilas de revisao por area.
 - Livros didaticos do ensino medio.
 - Materiais de apoio com exercicios comentados.
-

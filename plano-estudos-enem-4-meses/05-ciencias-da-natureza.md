@@ -33,3 +33,32 @@
 | Ondulatoria e optica | Media | Frequencia, luz, espelhos | v=lambda.f | Som, visao, lentes | Oculos e fibra optica | Entenda fenomeno |
 | Termologia e hidrostatica | Media | Calor, temperatura, pressao | Q=m.c.deltaT; p=d.g.h | Clima, fluidos | Panela de pressao | Interprete contexto |
 
+## Links Brasil Escola para esta area
+
+### Biologia
+
+1. [Ecologia](https://brasilescola.uol.com.br/biologia/ecologia.htm)
+2. [Ciclos biogeoquimicos](https://brasilescola.uol.com.br/biologia/ciclos-biogeoquimicos.htm)
+3. [Vacinas](https://brasilescola.uol.com.br/saude/vacinas.htm)
+4. [Citologia](https://brasilescola.uol.com.br/biologia/nivel-celula.htm)
+5. [Anatomia humana](https://brasilescola.uol.com.br/biologia/anatomia-humana.htm)
+6. [DNA](https://brasilescola.uol.com.br/biologia/dna.htm)
+7. [Primeira Lei de Mendel](https://brasilescola.uol.com.br/biologia/primeira-lei-mendel.htm)
+
+### Fisica
+
+1. [Cinematica](https://brasilescola.uol.com.br/fisica/introducao-cinematica.htm)
+2. [Movimento uniforme](https://brasilescola.uol.com.br/fisica/movimento-uniforme.htm)
+3. [Leis de Newton](https://brasilescola.uol.com.br/fisica/leis-newton.htm)
+4. [Energia e trabalho](https://brasilescola.uol.com.br/fisica/trabalho.htm)
+5. [Circuitos eletricos](https://brasilescola.uol.com.br/fisica/circuitos-eletricos.htm)
+6. [Hidrostatica](https://brasilescola.uol.com.br/fisica/hidrostatica.htm)
+
+### Quimica
+
+1. [Estequiometria](https://brasilescola.uol.com.br/quimica/estequiometria.htm)
+2. [Solucoes](https://brasilescola.uol.com.br/quimica/solucoes.htm)
+3. [Separacao de misturas](https://brasilescola.uol.com.br/quimica/separacao-misturas.htm)
+4. [Ligacoes quimicas](https://brasilescola.uol.com.br/quimica/ligacoes-quimicas.htm)
+5. [Funcoes organicas](https://brasilescola.uol.com.br/quimica/funcoes-organicas.htm)
+6. [Termoquimica](https://brasilescola.uol.com.br/quimica/termoquimica-.htm)

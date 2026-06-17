@@ -9,6 +9,29 @@
 | 3 | Resolucao intensiva e redacao | 4 simulados, 8 redacoes, revisao por erros. |
 | 4 | Revisao final, simulados e pontos fracos | 4 a 6 simulados, 8 redacoes, revisao final. |
 
+## Apoio teorico Brasil Escola por semana
+
+Use os links abaixo como leitura de apoio antes das questoes. A ordem privilegia os conteudos mais recorrentes e mais rentaveis para 4 meses de preparacao.
+
+| Semana | Links prioritarios |
+|---:|---|
+| 1 | [Porcentagem](https://brasilescola.uol.com.br/matematica/porcentagem.htm), [Regra de tres](https://brasilescola.uol.com.br/matematica/regra-tres-simples.htm), [Interpretacao no ENEM](https://vestibular.brasilescola.uol.com.br/enem/como-interpretar-textos-no-enem.htm), [Ecologia](https://brasilescola.uol.com.br/biologia/ecologia.htm) |
+| 2 | [Unidades de medida](https://brasilescola.uol.com.br/quimica/unidades-medida.htm), [Funcoes da linguagem](https://brasilescola.uol.com.br/gramatica/funcoes-linguagem.htm), [Escravidao no Brasil](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm), [Ciclos biogeoquimicos](https://brasilescola.uol.com.br/biologia/ciclos-biogeoquimicos.htm) |
+| 3 | [Graficos](https://brasilescola.uol.com.br/matematica/graficos.htm), [Linguagem verbal e nao verbal](https://brasilescola.uol.com.br/redacao/linguagem-verbal-linguagem-nao-verbal.htm), [Brasil Colonia](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm), [Solucoes](https://brasilescola.uol.com.br/quimica/solucoes.htm) |
+| 4 | [Funcao do 1o grau](https://brasilescola.uol.com.br/matematica/funcao-de-primeiro-grau.htm), [Funcao do 2o grau](https://brasilescola.uol.com.br/matematica/funcao-de-segundo-grau.htm), [Tipos de intertextualidade](https://brasilescola.uol.com.br/redacao/tipos-intertextualidade.htm), [Primeira Lei de Mendel](https://brasilescola.uol.com.br/biologia/primeira-lei-mendel.htm) |
+| 5 | [Estatistica](https://brasilescola.uol.com.br/matematica/estatistica-2.htm), [Modernismo](https://brasilescola.uol.com.br/literatura/modernismo.htm), [Era Vargas](https://brasilescola.uol.com.br/historiab/era-vargas.htm), [Estequiometria](https://brasilescola.uol.com.br/quimica/estequiometria.htm) |
+| 6 | [Area de solidos geometricos](https://brasilescola.uol.com.br/matematica/area-solidos-geometricos.htm), [Semantica](https://brasilescola.uol.com.br/portugues/semantica.htm), [Ditadura Militar](https://brasilescola.uol.com.br/historiab/ditadura-militar.htm), [Circuitos eletricos](https://brasilescola.uol.com.br/fisica/circuitos-eletricos.htm) |
+| 7 | [Probabilidade](https://brasilescola.uol.com.br/matematica/probabilidade.htm), [Aquecimento global](https://brasilescola.uol.com.br/geografia/aquecimento-global.htm), [Biomas brasileiros](https://brasilescola.uol.com.br/brasil/biomas-brasileiros.htm), [Ligacoes quimicas](https://brasilescola.uol.com.br/quimica/ligacoes-quimicas.htm) |
+| 8 | [Analise combinatoria](https://brasilescola.uol.com.br/matematica/analise-combinatoria.htm), [Romantismo](https://brasilescola.uol.com.br/literatura/romantismo.htm), [Movimentos sociais](https://brasilescola.uol.com.br/sociologia/movimentos-sociais-breve-definicao.htm), [Vacinas](https://brasilescola.uol.com.br/saude/vacinas.htm) |
+| 9 | [Provas e gabaritos](https://vestibular.brasilescola.uol.com.br/downloads), [Simulado ENEM](https://vestibular.brasilescola.uol.com.br/simulado/enem), [Competencias da redacao](https://brasilescola.uol.com.br/redacao/as-5-competencias-da-redacao-do-enem.htm) |
+| 10 | [Geografia urbana](https://brasilescola.uol.com.br/geografia/geografia-urbana.htm), [Funcoes organicas](https://brasilescola.uol.com.br/quimica/funcoes-organicas.htm), [Leis de Newton](https://brasilescola.uol.com.br/fisica/leis-newton.htm), [Poesia, poema e prosa](https://brasilescola.uol.com.br/literatura/poesia-poema-prosa.htm) |
+| 11 | [Globalizacao](https://brasilescola.uol.com.br/geografia/globalizacao.htm), [Cultura material e imaterial](https://brasilescola.uol.com.br/cultura/cultura-material-e-cultura-imaterial.htm), [Biologia evolutiva](https://brasilescola.uol.com.br/biologia/biologia-evolutiva.htm), [Energia e trabalho](https://brasilescola.uol.com.br/fisica/trabalho.htm) |
+| 12 | [Exercicios Brasil Escola](https://exercicios.brasilescola.uol.com.br/), [Proposta de intervencao](https://brasilescola.uol.com.br/redacao/proposta-intervencao-enem.htm), [Texto dissertativo-argumentativo](https://brasilescola.uol.com.br/redacao/texto-dissertativo-argumentativo.htm) |
+| 13 | Revisar links de prioridade maxima em [links-brasil-escola-enem-2026.md](links-brasil-escola-enem-2026.md) |
+| 14 | Revisar links dos assuntos com menor acerto no caderno de erros |
+| 15 | Refazer questoes e consultar apenas conteudos ainda instaveis |
+| 16 | Usar links apenas para revisao leve de formulas, repertorios e conceitos-chave |
+
 ## Plano semanal
 
 | Semana | Conteudos principais | Prioridades | Atividades obrigatorias | Redacoes | Questoes | Revisao e simulado |
@@ -36,4 +59,3 @@
 - Revisao semanal: domingo, com caderno de erros.
 - Revisao mensal: fim das semanas 4, 8, 12 e 16.
 - Revisao final: priorize o que mais erra e o que mais cai.
-

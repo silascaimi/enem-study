@@ -31,3 +31,16 @@
 
 Estude um conceito, resolva exemplos simples, avance para questoes ENEM e registre o tipo de erro. A meta nao e decorar formulas isoladas, mas reconhecer modelos de problema rapidamente.
 
+## Links Brasil Escola para esta area
+
+Priorize nesta ordem:
+
+1. [Porcentagem](https://brasilescola.uol.com.br/matematica/porcentagem.htm)
+2. [Regra de tres](https://brasilescola.uol.com.br/matematica/regra-tres-simples.htm)
+3. [Unidades de medida](https://brasilescola.uol.com.br/quimica/unidades-medida.htm)
+4. [Graficos](https://brasilescola.uol.com.br/matematica/graficos.htm)
+5. [Estatistica](https://brasilescola.uol.com.br/matematica/estatistica-2.htm)
+6. [Probabilidade](https://brasilescola.uol.com.br/matematica/probabilidade.htm)
+7. [Funcao do 1o grau](https://brasilescola.uol.com.br/matematica/funcao-de-primeiro-grau.htm)
+8. [Funcao do 2o grau](https://brasilescola.uol.com.br/matematica/funcao-de-segundo-grau.htm)
+9. [Area de solidos geometricos](https://brasilescola.uol.com.br/matematica/area-solidos-geometricos.htm)

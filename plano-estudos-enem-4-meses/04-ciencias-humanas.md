@@ -43,3 +43,30 @@
 
 Revise Humanas por linhas do tempo, mapas conceituais e questoes comentadas. Sempre associe conteudo a fontes, imagens, charges, mapas e problemas atuais.
 
+## Links Brasil Escola para esta area
+
+### Historia
+
+1. [Brasil Colonia](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm)
+2. [Escravidao no Brasil](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm)
+3. [Brasil Imperio](https://brasilescola.uol.com.br/historiab/brasil-monarquia.htm)
+4. [Era Vargas](https://brasilescola.uol.com.br/historiab/era-vargas.htm)
+5. [Ditadura Militar](https://brasilescola.uol.com.br/historiab/ditadura-militar.htm)
+6. [Revolucao Industrial](https://brasilescola.uol.com.br/historiag/revolucao-industrial.htm)
+7. [Guerra Fria](https://brasilescola.uol.com.br/historiag/guerra-fria.htm)
+
+### Geografia
+
+1. [Geografia urbana](https://brasilescola.uol.com.br/geografia/geografia-urbana.htm)
+2. [Globalizacao](https://brasilescola.uol.com.br/geografia/globalizacao.htm)
+3. [Aquecimento global](https://brasilescola.uol.com.br/geografia/aquecimento-global.htm)
+4. [Biomas brasileiros](https://brasilescola.uol.com.br/brasil/biomas-brasileiros.htm)
+5. [Fontes de energia](https://brasilescola.uol.com.br/geografia/fontes-energia.htm)
+6. [Cartografia](https://brasilescola.uol.com.br/geografia/cartografia.htm)
+
+### Filosofia e Sociologia
+
+1. [Iluminismo](https://brasilescola.uol.com.br/historiag/iluminismo.htm)
+2. [Movimentos sociais](https://brasilescola.uol.com.br/sociologia/movimentos-sociais-breve-definicao.htm)
+3. [Cultura material e imaterial](https://brasilescola.uol.com.br/cultura/cultura-material-e-cultura-imaterial.htm)
+4. [Patrimonio historico cultural](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm)
