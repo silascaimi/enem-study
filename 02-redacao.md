@@ -19,6 +19,22 @@
 | 4 | Coesao | Usar conectivos variados e retomadas claras entre frases e paragrafos. |
 | 5 | Intervencao | Incluir agente, acao, modo/meio, efeito/finalidade e detalhamento. |
 
+## Por que isso e prioridade?
+
+| Criterio | Elementos | Motivo |
+|---|---|---|
+| Alta recorrencia | Tema social, tese, dois argumentos e intervencao | Toda proposta ENEM exige defender ponto de vista sobre um problema social. |
+| Base necessaria | Competencias, estrutura e coesao | Sem estrutura clara, o repertorio nao vira argumentacao. |
+| Revisao final | Criterios de nota zero, C5 e reescrita | Corrigir proposta de intervencao e fuga parcial costuma aumentar nota rapidamente. |
+
+## Exemplos de cobranca no ENEM
+
+| Parte | Exemplo pratico |
+|---|---|
+| Tema | Problema social brasileiro que pede analise e solucao. |
+| Repertorio | Uso de Constituicao, IBGE, Paulo Freire ou outro repertorio conectado ao argumento. |
+| Intervencao | Ministerio, escola, familia, midia ou sociedade civil com acao, meio, finalidade e detalhamento. |
+
 ## Modelo de estrutura
 
 Introducao: repertorio de abertura + problema + tese com dois argumentos.

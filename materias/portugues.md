@@ -26,6 +26,12 @@ Portugues aparece principalmente em interpretacao de textos, generos, efeitos de
 
 O ENEM cobra leitura atenta e finalidade comunicativa. A pergunta geralmente pede efeito de sentido, intencao do autor, relacao entre linguagem verbal e nao verbal ou adequacao da linguagem ao contexto.
 
+## Exemplos de cobranca
+
+- Identificar a critica social em uma tirinha.
+- Reconhecer a finalidade de uma campanha de saude.
+- Explicar o efeito de uma escolha linguistica em texto publicitario.
+
 ## Estrategia de estudo
 
 Resolva questoes diariamente, sempre justificando por que as alternativas erradas nao servem. Leia o comando antes do texto quando a questao for longa.
@@ -55,4 +61,3 @@ Resolva 30 a 50 questoes por semana, misturando interpretacao, generos e textos 
 ## Resumo final
 
 Portugues no ENEM e leitura com estrategia. A prioridade e interpretar contexto, finalidade, linguagem e efeitos de sentido.
-

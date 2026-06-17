@@ -8,7 +8,7 @@ Geografia conecta territorio, sociedade, economia, ambiente e atualidades. A pro
 
 | Prioridade | Assuntos |
 |---|---|
-| Alta | Urbanizacao, globalizacao, meio ambiente, geopolítica, energia, agropecuaria |
+| Alta | Urbanizacao, globalizacao, meio ambiente, geopolitica, energia, agropecuaria |
 | Media | Climatologia, cartografia, migracoes, industrializacao |
 | Baixa | Nomenclaturas fisicas muito especificas sem contexto |
 
@@ -16,7 +16,7 @@ Geografia conecta territorio, sociedade, economia, ambiente e atualidades. A pro
 
 1. Cartografia e leitura de mapas.
 2. Urbanizacao e populacao.
-3. Globalizacao e geopolítica.
+3. Globalizacao e geopolitica.
 4. Meio ambiente e clima.
 5. Energia, industria e agropecuaria.
 6. Migracoes e problemas socioambientais.
@@ -24,6 +24,12 @@ Geografia conecta territorio, sociedade, economia, ambiente e atualidades. A pro
 ## Como o ENEM costuma cobrar
 
 As questoes apresentam mapas, graficos, noticias e situacoes-problema. A resposta depende de interpretar espaco, escala e relacoes sociais.
+
+## Exemplos de cobranca
+
+- Ler mapa de biomas, urbanizacao ou fluxos migratorios.
+- Relacionar globalizacao a producao, consumo e desigualdade.
+- Avaliar impactos ambientais de energia, agropecuaria ou industria.
 
 ## Estrategia de estudo
 
@@ -34,7 +40,7 @@ Associe conceitos a exemplos atuais. Treine leitura de mapas, legendas, escalas 
 - [ ] Urbanizacao
 - [ ] Segregacao socioespacial
 - [ ] Globalizacao
-- [ ] Geopolítica
+- [ ] Geopolitica
 - [ ] Biomas e clima
 - [ ] Energia
 - [ ] Cartografia
@@ -53,4 +59,3 @@ Resolva 20 a 30 questoes por semana, incluindo mapas e graficos.
 ## Resumo final
 
 Geografia e leitura critica do espaco e das relacoes humanas com o ambiente.
-

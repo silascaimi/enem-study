@@ -26,6 +26,12 @@ Quimica aparece em contextos ambientais, industriais, energeticos, alimentares e
 
 Por meio de tratamento de agua, poluicao, combustiveis, alimentos, medicamentos, baterias e processos industriais.
 
+## Exemplos de cobranca
+
+- Calcular concentracao em solucao de uso cotidiano.
+- Escolher metodo de separacao de misturas no tratamento de agua.
+- Interpretar pilhas, combustiveis ou reacoes em contexto ambiental.
+
 ## Estrategia de estudo
 
 Aprenda conceito, unidade e aplicacao. Em calculos, escreva dados e use proporcao.
@@ -54,4 +60,3 @@ Resolva 20 a 35 questoes por semana, alternando teoria aplicada e calculos.
 ## Resumo final
 
 Quimica no ENEM e aplicacao de conceitos a problemas ambientais, tecnologicos e cotidianos.
-

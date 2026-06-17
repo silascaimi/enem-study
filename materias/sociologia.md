@@ -26,6 +26,12 @@ Sociologia ajuda a interpretar cultura, trabalho, desigualdade, poder, cidadania
 
 As questoes trazem textos, dados ou situacoes sociais e pedem relacao com conceitos sociologicos.
 
+## Exemplos de cobranca
+
+- Analisar industria cultural e consumo de massa.
+- Relacionar precarizacao do trabalho a desigualdade.
+- Interpretar movimentos sociais como luta por direitos.
+
 ## Estrategia de estudo
 
 Associe cada conceito a exemplos brasileiros. Use atualidades, mas sempre com base teorica.
@@ -53,4 +59,3 @@ Resolva 10 a 20 questoes por semana e registre conceitos confundidos.
 ## Resumo final
 
 Sociologia exige olhar critico para relacoes sociais e desigualdades.
-

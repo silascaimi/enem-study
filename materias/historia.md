@@ -26,6 +26,12 @@ Historia avalia processos sociais, politicos, economicos e culturais. A prova co
 
 Com fontes historicas, charges, documentos e textos. A questao geralmente pede interpretacao do processo, nao memorizacao de data.
 
+## Exemplos de cobranca
+
+- Interpretar fonte sobre escravidao, resistencia ou cidadania.
+- Relacionar Era Vargas a trabalho e industrializacao.
+- Analisar autoritarismo, censura e democracia no contexto da Ditadura Militar.
+
 ## Estrategia de estudo
 
 Monte linhas do tempo e relacione causas, consequencias e permanencias. Use questoes para identificar temas recorrentes.
@@ -53,4 +59,3 @@ Resolva 20 a 30 questoes por semana, priorizando fontes e interpretacao.
 ## Resumo final
 
 Historia exige compreender mudancas, permanencias e disputas sociais.
-

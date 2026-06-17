@@ -14,7 +14,7 @@
 1. Corrija sem olhar resolucao comentada.
 2. Classifique cada erro: conteudo, interpretacao, calculo, distracao ou tempo.
 3. Registre no `caderno-de-erros.md`.
-4. Refaça as questoes erradas 7 dias depois.
+4. Refaca as questoes erradas 7 dias depois.
 5. Escolha 3 conteudos fracos para revisar na semana seguinte.
 
 ## Controle de tempo
@@ -44,4 +44,3 @@
 ## Dia da prova
 
 Durma bem, leve documentos, agua e lanche simples. Nao tente aprender conteudo novo na vespera; revise formulas, conectivos, repertorios e estrategia de tempo.
-

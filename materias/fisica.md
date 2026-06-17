@@ -26,6 +26,12 @@ Fisica cobra energia, movimento, eletricidade, ondas, calor e fenomenos do cotid
 
 Com eletrodomesticos, transporte, seguranca, consumo de energia, som, luz, calor e maquinas.
 
+## Exemplos de cobranca
+
+- Comparar consumo de energia de eletrodomesticos.
+- Interpretar velocidade media em transporte urbano.
+- Aplicar leis de Newton a seguranca, atrito ou movimento.
+
 ## Estrategia de estudo
 
 Antes da formula, identifique grandezas, unidades e fenomeno fisico. Desenhe esquemas simples.
@@ -56,4 +62,3 @@ Resolva 20 a 35 questoes por semana, principalmente de energia, eletricidade e m
 ## Resumo final
 
 Fisica no ENEM e leitura de fenomenos cotidianos com unidades, conceitos e poucas formulas bem usadas.
-

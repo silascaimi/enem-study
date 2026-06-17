@@ -2,10 +2,13 @@
 
 ## Fontes oficiais
 
-- Provas anteriores do ENEM.
-- INEP: editais, cartilhas, microdados e provas.
-- Matriz de Referencia do ENEM.
-- Cartilha do Participante de Redacao do ENEM.
+- [Pagina oficial do ENEM no INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem): informacoes institucionais, links de acesso e documentos.
+- [Provas e gabaritos do ENEM](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos): use como fonte principal para simulados e listas.
+- [Outros documentos do ENEM](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/outros-documentos): matrizes, cartilhas e manuais de correcao.
+- [Matriz de Referencia do ENEM](https://download.inep.gov.br/download/enem/matriz_referencia.pdf): consulte habilidades, eixos cognitivos e objetos de conhecimento.
+- Cartilha do Participante de Redacao: buscar sempre a edicao mais recente na pagina de outros documentos do INEP.
+
+Use fontes oficiais para criterios de prova, matriz, redacao e provas antigas. Links externos de aulas e resumos servem como apoio; o treino principal deve vir de provas antigas, correcao de erros e reescrita de redacoes.
 
 ## Curadoria Brasil Escola
 
@@ -17,9 +20,10 @@
 
 ## Questoes e simulados
 
+- Provas antigas do INEP, resolvidas em tempo real.
 - Bancos de questoes com filtro por assunto e ano.
-- Provas antigas resolvidas.
 - Simulados baseados no formato ENEM.
+- Listas por area feitas a partir dos erros do estudante.
 
 ## Videoaulas gratuitas
 
@@ -29,7 +33,7 @@
 
 ## Redacao
 
-- Cartilha oficial do participante.
+- Cartilha oficial do participante, preferencialmente a edicao mais recente do INEP.
 - Espelhos de redacoes nota 1000.
 - Correcoes com base nas 5 competencias.
 - Reescrita de textos corrigidos.

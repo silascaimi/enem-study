@@ -1,5 +1,21 @@
 # Ciencias da Natureza
 
+## Por que isso e prioridade?
+
+| Criterio | Conteudos | Motivo |
+|---|---|---|
+| Alta recorrencia | Ecologia, saude, energia, eletricidade, estequiometria, solucoes e quimica ambiental | O ENEM cobra ciencia aplicada a ambiente, tecnologia, consumo e saude publica. |
+| Base necessaria | Unidades, graficos, leitura de experimentos, conservacao de energia e proporcao quimica | A maior parte das questoes mistura texto, dados e conceitos. |
+| Revisao final | Eletroquimica, termoquimica, genetica, ondas, optica e fisiologia | Devem ser revisados conforme erros de simulado. |
+
+## Exemplos de cobranca no ENEM
+
+| Disciplina | Exemplo de questao |
+|---|---|
+| Biologia | Avaliar impacto ambiental em cadeia alimentar ou ciclo biogeoquimico. |
+| Quimica | Calcular concentracao de solucao ou interpretar tratamento de agua. |
+| Fisica | Comparar consumo eletrico de aparelhos ou energia em maquinas. |
+
 ## Biologia
 
 | Assunto | Prioridade | Conceitos principais | Formulas/ideias | Como o ENEM cobra | Exemplo contextualizado | Dica |
@@ -32,6 +48,8 @@
 | Eletricidade e circuitos | Alta | Corrente, tensao, resistencia | U=R.i; P=U.i | Chuveiro, lampadas | Consumo residencial | Use potencia e tempo |
 | Ondulatoria e optica | Media | Frequencia, luz, espelhos | v=lambda.f | Som, visao, lentes | Oculos e fibra optica | Entenda fenomeno |
 | Termologia e hidrostatica | Media | Calor, temperatura, pressao | Q=m.c.deltaT; p=d.g.h | Clima, fluidos | Panela de pressao | Interprete contexto |
+
+Para revisao rapida de Fisica e Quimica, use [formularios-rapidos.md](formularios-rapidos.md).
 
 ## Links Brasil Escola para esta area
 

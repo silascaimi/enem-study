@@ -15,6 +15,23 @@
 | Textos multimodais | Alta | Integrar imagem, legenda, cor, grafico e texto | Charges, tirinhas, propaganda, infografico | Ler so o texto verbal | 15 questoes de imagens por semana |
 | TICs | Media | Entender redes, midia, hipertexto e linguagem digital | Impacto social da tecnologia | Tratar internet como tema apenas tecnico | Analisar campanhas digitais |
 
+## Por que isso e prioridade?
+
+| Criterio | Conteudos | Motivo |
+|---|---|---|
+| Alta recorrencia | Interpretacao, generos, funcoes, variacao e textos multimodais | A prova de Linguagens exige leitura de textos longos, imagens, charges e contextos de uso. |
+| Base necessaria | Coesao, coerencia, efeito de sentido e argumentacao | Esses pontos ajudam tambem em Redacao e Humanas. |
+| Revisao final | Modernismo, figuras, TICs e literatura brasileira | Valem revisao direcionada por erros e por provas antigas. |
+
+## Exemplos de cobranca no ENEM
+
+| Conteudo | Exemplo de questao |
+|---|---|
+| Interpretacao | Identificar a critica social em uma charge. |
+| Genero textual | Reconhecer a finalidade de uma campanha publica. |
+| Variacao linguistica | Explicar por que uma fala regional e adequada ao contexto. |
+| Literatura | Relacionar trecho modernista a ruptura estetica e identidade nacional. |
+
 ## Disciplinas
 
 ### Portugues

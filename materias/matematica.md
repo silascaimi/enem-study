@@ -25,6 +25,12 @@ Matematica tem uma prova propria e grande potencial de ganho de nota. O ENEM val
 
 Problemas longos, com tabelas, graficos, unidades e contexto. Muitas questoes sao resolvidas com matematica basica bem aplicada.
 
+## Exemplos de cobranca
+
+- Calcular porcentagem de desconto ou aumento em uma situacao de consumo.
+- Interpretar grafico de crescimento populacional ou indicador social.
+- Calcular area, volume ou escala em uma planta, mapa ou embalagem.
+
 ## Estrategia de estudo
 
 Treine reconhecimento de tipo de problema. Antes de calcular, identifique dados, pergunta, unidade e caminho.
@@ -55,4 +61,3 @@ Resolva 50 a 80 questoes por semana, aumentando para 100 nas semanas de revisao 
 ## Resumo final
 
 Matematica no ENEM recompensa base forte, treino constante e leitura cuidadosa.
-

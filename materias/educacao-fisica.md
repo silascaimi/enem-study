@@ -24,6 +24,12 @@ Educacao Fisica aparece em Linguagens com foco em corpo, saude, esporte, lazer, 
 
 As questoes relacionam praticas corporais a sociedade, saude publica, inclusao, preconceito, qualidade de vida e cultura.
 
+## Exemplos de cobranca
+
+- Analisar padroes de corpo divulgados pela midia.
+- Relacionar esporte adaptado a inclusao social.
+- Interpretar lazer e atividade fisica como direitos de cidadania.
+
 ## Estrategia de estudo
 
 Leia textos de campanhas, noticias e pesquisas. Foque no significado social do esporte e do corpo.
@@ -49,5 +55,4 @@ Resolva 5 questoes semanais e associe os temas a cidadania, saude e cultura.
 
 ## Resumo final
 
-Educação Fisica no ENEM e interpretacao social do corpo e das praticas corporais.
-
+Educacao Fisica no ENEM e interpretacao social do corpo e das praticas corporais.

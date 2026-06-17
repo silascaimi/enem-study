@@ -25,6 +25,12 @@ Filosofia cobra interpretacao de textos curtos, conceitos de etica, politica, co
 
 O ENEM apresenta um texto de autor ou comentario e pede identificar ideia central, conceito ou aplicacao social.
 
+## Exemplos de cobranca
+
+- Relacionar contratualismo a Estado, liberdade e seguranca.
+- Interpretar conceito de etica em dilema social.
+- Associar Iluminismo a cidadania, razao e democracia.
+
 ## Estrategia de estudo
 
 Estude conceitos-chave e resolva questoes comentadas. Para cada autor, registre uma ideia principal e um exemplo.
@@ -52,4 +58,3 @@ Resolva 10 a 15 questoes por semana e crie fichas de conceitos.
 ## Resumo final
 
 Filosofia no ENEM e conceito aplicado a problemas humanos e sociais.
-

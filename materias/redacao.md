@@ -25,6 +25,12 @@ A redacao tem peso alto e pode elevar muito a nota final. Ela avalia escrita, ar
 
 O tema apresenta um problema social brasileiro. O estudante deve defender uma tese e propor intervencao detalhada respeitando direitos humanos.
 
+## Exemplos de cobranca
+
+- Desenvolver tese sobre um problema social contemporaneo.
+- Usar repertorio sociocultural conectado ao argumento.
+- Propor intervencao com agente, acao, meio, finalidade e detalhamento.
+
 ## Estrategia de estudo
 
 Escreva toda semana, corrija por competencia e reescreva pelo menos um paragrafo. Tenha repertorios versateis, mas adapte ao tema.
@@ -53,4 +59,3 @@ Meses 1 e 2: 1 redacao por semana. Meses 3 e 4: 2 redacoes por semana, com reesc
 ## Resumo final
 
 Redacao melhora com ciclo de escrita, correcao e reescrita.
-

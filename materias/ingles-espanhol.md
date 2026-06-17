@@ -9,7 +9,7 @@ A lingua estrangeira avalia leitura instrumental. O estudante precisa compreende
 | Prioridade | Assuntos |
 |---|---|
 | Alta | Interpretacao, cognatos, inferencia, genero textual, finalidade do texto |
-| Media | Vocabulário contextual, expressões idiomaticas, pronomes e conectivos |
+| Media | Vocabulario contextual, expressoes idiomaticas, pronomes e conectivos |
 | Baixa | Gramatica isolada e traducao literal |
 
 ## Ordem recomendada de estudo
@@ -23,6 +23,12 @@ A lingua estrangeira avalia leitura instrumental. O estudante precisa compreende
 ## Como o ENEM costuma cobrar
 
 O texto vem em ingles ou espanhol, mas as alternativas sao em portugues. A questao costuma pedir tema, objetivo, critica ou sentido de uma expressao no contexto.
+
+## Exemplos de cobranca
+
+- Identificar a mensagem central de uma campanha.
+- Inferir o sentido de uma palavra pelo contexto.
+- Reconhecer ironia em tirinha ou letra de musica.
 
 ## Estrategia de estudo
 
@@ -51,4 +57,3 @@ Resolva 5 a 10 questoes por semana e mantenha uma lista de palavras recorrentes.
 ## Resumo final
 
 O foco e leitura estrategica, nao fluencia completa.
-

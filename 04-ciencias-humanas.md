@@ -1,5 +1,22 @@
 # Ciencias Humanas
 
+## Por que isso e prioridade?
+
+| Criterio | Conteudos | Motivo |
+|---|---|---|
+| Alta recorrencia | Brasil Colonia, escravidao, Republica, urbanizacao, globalizacao, cidadania e movimentos sociais | Sao temas frequentes e aparecem de forma contextualizada em textos, mapas, charges e fontes historicas. |
+| Base necessaria | Linha do tempo, leitura de mapas, conceitos de Estado, cultura, trabalho e poder | A prova cobra interpretacao, nao apenas memorizacao. |
+| Revisao final | Ditadura, Era Vargas, meio ambiente, energia, democracia e desigualdade | Temas conectam conteudo historico, geografia e atualidades. |
+
+## Exemplos de cobranca no ENEM
+
+| Disciplina | Exemplo de questao |
+|---|---|
+| Historia | Interpretar documento sobre escravidao, trabalho ou cidadania. |
+| Geografia | Ler mapa sobre urbanizacao, energia ou problemas ambientais. |
+| Filosofia | Relacionar autor ou conceito a democracia, etica ou poder. |
+| Sociologia | Analisar desigualdade, cultura de massa, trabalho ou movimentos sociais. |
+
 ## Historia
 
 | Tema | Prioridade | Como estudar | Questao comum | Relacao com atualidades |
@@ -16,7 +33,7 @@
 | Tema | Prioridade | Como estudar | Questao comum | Relacao com atualidades |
 |---|---|---|---|---|
 | Urbanizacao | Alta | Segregacao, mobilidade e moradia | Problemas urbanos | Transporte e periferias |
-| Globalizacao e geopolítica | Alta | Fluxos, blocos, conflitos | Interpretar mapas e textos | Conflitos e economia mundial |
+| Globalizacao e geopolitica | Alta | Fluxos, blocos, conflitos | Interpretar mapas e textos | Conflitos e economia mundial |
 | Meio ambiente | Alta | Clima, biomas, impactos | Sustentabilidade | Crise climatica |
 | Agropecuaria e industrializacao | Media | Modernizacao, territorio e trabalho | Cadeias produtivas | Alimentos e energia |
 | Energia, cartografia e migracoes | Media | Fontes, escala, mapas e fluxos | Analise espacial | Transicao energetica |

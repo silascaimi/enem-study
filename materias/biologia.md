@@ -26,6 +26,12 @@ Biologia e muito cobrada em temas de ecologia, saude, genetica, evolucao e suste
 
 Com situacoes ambientais, campanhas de saude, graficos, experimentos e problemas de sustentabilidade.
 
+## Exemplos de cobranca
+
+- Avaliar bioacumulacao em uma cadeia alimentar.
+- Relacionar vacinacao a imunidade coletiva.
+- Interpretar impacto humano nos ciclos do carbono, nitrogenio ou agua.
+
 ## Estrategia de estudo
 
 Entenda processos e relacoes de causa e consequencia. Use esquemas para ciclos, cadeias e sistemas do corpo.
@@ -54,4 +60,3 @@ Resolva 25 a 40 questoes por semana, com foco em ecologia e saude.
 ## Resumo final
 
 Biologia no ENEM e ciencia aplicada a ambiente, saude e vida cotidiana.
-

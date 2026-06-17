@@ -24,6 +24,12 @@ Artes aparece em Linguagens e avalia leitura de imagens, movimentos artisticos, 
 
 As questoes pedem interpretacao de obra, ruptura de padroes, critica social, identidade cultural ou relacao entre arte e contexto.
 
+## Exemplos de cobranca
+
+- Interpretar instalacao, fotografia ou grafite como critica social.
+- Relacionar obra modernista a ruptura de padroes academicos.
+- Reconhecer patrimonio cultural material ou imaterial.
+
 ## Estrategia de estudo
 
 Estude por imagens e exemplos. Para cada obra, pergunte: que linguagem usa, que contexto mobiliza e que efeito produz?
@@ -50,4 +56,3 @@ Resolva 5 a 10 questoes semanais de artes e textos multimodais.
 ## Resumo final
 
 Artes no ENEM e leitura critica de producoes culturais.
-

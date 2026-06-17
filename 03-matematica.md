@@ -18,6 +18,23 @@
 | Equacoes | Alta | 1o e 2o grau, sistemas | Bhaskara | Problemas traduzidos | Defina incognita | 15 por semana |
 | Unidades de medida | Alta | Comprimento, area, volume, tempo | Conversoes metricas | Velocidade, consumo, capacidade | Converta antes de operar | 20 por semana |
 
+## Por que isso e prioridade?
+
+| Criterio | Conteudos | Motivo |
+|---|---|---|
+| Alta recorrencia | Porcentagem, regra de tres, graficos, estatistica e geometria | Aparecem em problemas cotidianos, tabelas, consumo, escala e comparacao de dados. |
+| Base necessaria | Unidades, razao, proporcao e equacoes | Sao ferramentas para resolver questoes de varias frentes. |
+| Revisao final | Probabilidade, funcoes e matematica financeira | Rendimentos bons quando o estudante ja domina leitura e conta basica. |
+
+## Exemplos de cobranca no ENEM
+
+| Conteudo | Exemplo de questao |
+|---|---|
+| Porcentagem | Comparar descontos, aumentos e variacao percentual em uma compra. |
+| Graficos | Identificar tendencia ou maior crescimento em tabela de indicadores. |
+| Geometria | Calcular area de terreno, volume de reservatorio ou escala de planta. |
+| Estatistica | Encontrar media, mediana ou interpretar dispersao de dados. |
+
 ## Ordem sugerida nos 4 meses
 
 | Periodo | Conteudos |
@@ -30,6 +47,8 @@
 ## Como estudar matematica
 
 Estude um conceito, resolva exemplos simples, avance para questoes ENEM e registre o tipo de erro. A meta nao e decorar formulas isoladas, mas reconhecer modelos de problema rapidamente.
+
+Para revisao rapida, use [formularios-rapidos.md](formularios-rapidos.md).
 
 ## Links Brasil Escola para esta area
 

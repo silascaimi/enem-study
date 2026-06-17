@@ -102,6 +102,16 @@ Redacao:
 [cole aqui o texto]
 ```
 
+## Ciclo semanal de uso
+
+| Etapa | Acao | Registro |
+|---|---|---|
+| 1. Planejar | Escolher tema no banco de temas e definir tese + 2 argumentos | Anotar no rascunho |
+| 2. Escrever | Produzir a redacao em 60 a 80 minutos | Guardar versao original |
+| 3. Avaliar | Rodar este prompt ou pedir correcao humana | Registrar C1 a C5 |
+| 4. Reescrever | Refazer o paragrafo mais fraco e a proposta de intervencao | Marcar reescrita feita |
+| 5. Acompanhar | Atualizar a tabela de evolucao em `08-checklist-de-acompanhamento.md` | Definir foco da proxima redacao |
+
 ## Checklist do avaliador
 
 - [ ] Verificou risco de nota zero.
@@ -118,4 +128,3 @@ Redacao:
 - [Proposta de intervencao](https://brasilescola.uol.com.br/redacao/proposta-intervencao-enem.htm)
 - [Competencias da redacao do ENEM](https://brasilescola.uol.com.br/redacao/as-5-competencias-da-redacao-do-enem.htm)
 - [O que estudar para o ENEM 2026](https://vestibular.brasilescola.uol.com.br/enem/o-que-estudar-para-o-enem-2026.htm)
-

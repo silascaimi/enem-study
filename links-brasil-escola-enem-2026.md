@@ -13,6 +13,17 @@ Fonte-base analisada: [O que estudar para o Enem 2026](https://vestibular.brasil
 | Depois do simulado | Voltar apenas aos links dos assuntos errados. |
 | Mes 4 | Usar como revisao rapida, sem tentar estudar todos os links de uma vez. |
 
+Links externos sao apoio para teoria e revisao. Para medir evolucao, priorize provas antigas do INEP, simulados cronometrados, caderno de erros e reescrita de redacao.
+
+## Links por tipo de uso
+
+| Tipo | Links | Quando usar |
+|---|---|---|
+| Leitura teorica | Artigos de Linguagens, Matematica, Humanas e Natureza listados abaixo | Antes das listas de questoes e para fechar lacunas. |
+| Exercicios | [Exercicios Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de estudar um assunto especifico. |
+| Simulados | [Simulado ENEM Brasil Escola](https://vestibular.brasilescola.uol.com.br/simulado/enem) | A partir do mes 2, com tempo marcado. |
+| Provas | [Provas e gabaritos Brasil Escola](https://vestibular.brasilescola.uol.com.br/downloads) e [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos) | Base principal dos meses 3 e 4. |
+
 ## Prioridade maxima
 
 | Area | Conteudo | Link |
@@ -135,4 +146,3 @@ Fonte-base analisada: [O que estudar para o Enem 2026](https://vestibular.brasil
 | Provas e gabaritos | [Download Brasil Escola](https://vestibular.brasilescola.uol.com.br/downloads) | Base para simulados e listas por area |
 | Simulado ENEM | [Simulado Brasil Escola](https://vestibular.brasilescola.uol.com.br/simulado/enem) | Treino cronometrado |
 | Exercicios | [Exercicios Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Listas apos teoria |
-
