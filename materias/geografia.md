@@ -21,6 +21,19 @@ Geografia conecta territorio, sociedade, economia, ambiente e atualidades. A pro
 5. Energia, industria e agropecuaria.
 6. Migracoes e problemas socioambientais.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Geografia urbana | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/geografia-urbana.htm) | Semanas 5 e 10 |
+| Globalizacao | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/globalizacao.htm) | Semanas 6 e 11 |
+| Aquecimento global | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/aquecimento-global.htm) | Semana 7 e revisao final |
+| Biomas brasileiros | Alta | [Brasil Escola](https://brasilescola.uol.com.br/brasil/biomas-brasileiros.htm) | Natureza e Humanas ambientais |
+| Fontes de energia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/geografia/fontes-energia.htm) | Semanas 8, 10 e 14 |
+| Cartografia | Media | [Brasil Escola](https://brasilescola.uol.com.br/geografia/cartografia.htm) | Antes de mapas e escalas |
+| Elementos de um mapa | Media | [Brasil Escola](https://brasilescola.uol.com.br/geografia/elementos-um-mapa.htm) | Revisao de mapas, legendas e escalas |
+| Questao agraria no Brasil | Media | [Brasil Escola](https://brasilescola.uol.com.br/brasil/questao-agraria-no-brasil.htm) | Antes de agropecuaria e conflitos no campo |
+
 ## Como o ENEM costuma cobrar
 
 As questoes apresentam mapas, graficos, noticias e situacoes-problema. A resposta depende de interpretar espaco, escala e relacoes sociais.

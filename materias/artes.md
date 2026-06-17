@@ -20,6 +20,17 @@ Artes aparece em Linguagens e avalia leitura de imagens, movimentos artisticos, 
 4. Linguagens artisticas: musica, teatro, cinema, danca.
 5. Leitura de imagem.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Pagina de Artes | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/) | Para navegar por obras, movimentos e linguagens |
+| Arte moderna | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/arte-moderna.htm) | Antes de Modernismo, vanguardas e ruptura estetica |
+| Grafite | Alta | [Brasil Escola](https://brasilescola.uol.com.br/artes/grafite.htm) | Antes de questoes sobre arte urbana e critica social |
+| Historia do cinema | Media | [Brasil Escola](https://brasilescola.uol.com.br/artes/cinema.htm) | Revisao de linguagem audiovisual |
+| Historia do teatro | Media | [Brasil Escola](https://brasilescola.uol.com.br/artes/teatro.htm) | Revisao de linguagens cenicas |
+| Patrimonio historico cultural | Media | [Brasil Escola](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm) | Antes de questoes sobre cultura e memoria |
+
 ## Como o ENEM costuma cobrar
 
 As questoes pedem interpretacao de obra, ruptura de padroes, critica social, identidade cultural ou relacao entre arte e contexto.

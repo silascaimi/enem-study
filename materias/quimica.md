@@ -22,6 +22,20 @@ Quimica aparece em contextos ambientais, industriais, energeticos, alimentares e
 6. Organica.
 7. Eletroquimica, termoquimica e radioatividade.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Estequiometria | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/estequiometria.htm) | Semanas 5 e 9 |
+| Solucoes | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/solucoes.htm) | Semanas 3 e 5 |
+| Separacao de misturas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/separacao-misturas.htm) | Antes de tratamento de agua e petroleo |
+| Ligacoes quimicas | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/ligacoes-quimicas.htm) | Antes de reacoes e materiais |
+| Funcoes organicas | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/funcoes-organicas.htm) | Semanas 10 e 14 |
+| pH e pOH | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/kwphpoh.htm) | Quimica ambiental e solucoes |
+| Termoquimica | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/termoquimica-.htm) | Antes de combustiveis e energia |
+| Pilhas e baterias | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/pilhas-baterias.htm) | Antes de eletroquimica |
+| Eletrolise | Media | [Brasil Escola](https://brasilescola.uol.com.br/quimica/eletrolise.htm) | Revisao de eletroquimica |
+
 ## Como o ENEM costuma cobrar
 
 Por meio de tratamento de agua, poluicao, combustiveis, alimentos, medicamentos, baterias e processos industriais.

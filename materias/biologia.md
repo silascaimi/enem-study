@@ -22,6 +22,19 @@ Biologia e muito cobrada em temas de ecologia, saude, genetica, evolucao e suste
 6. Evolucao.
 7. Fisiologia e biotecnologia.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Ecologia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/biologia/ecologia.htm) | Semanas 1 e 13 |
+| Ciclos biogeoquimicos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/biologia/ciclos-biogeoquimicos.htm) | Semanas 2 e 3 |
+| Vacinas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/saude/vacinas.htm) | Semana 8 e saude publica |
+| Citologia | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/nivel-celula.htm) | Antes de fisiologia e genetica |
+| Anatomia humana | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/anatomia-humana.htm) | Revisao de fisiologia humana |
+| DNA | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/dna.htm) | Antes de genetica e biotecnologia |
+| Primeira Lei de Mendel | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/primeira-lei-mendel.htm) | Para genetica basica |
+| Biologia evolutiva | Media | [Brasil Escola](https://brasilescola.uol.com.br/biologia/biologia-evolutiva.htm) | Antes de evolucao e adaptacao |
+
 ## Como o ENEM costuma cobrar
 
 Com situacoes ambientais, campanhas de saude, graficos, experimentos e problemas de sustentabilidade.

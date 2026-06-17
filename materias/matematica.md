@@ -21,6 +21,21 @@ Matematica tem uma prova propria e grande potencial de ganho de nota. O ENEM val
 5. Funcoes e equacoes.
 6. Questoes mistas e simulados.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Porcentagem | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/porcentagem.htm) | Semana 1 e revisao final |
+| Regra de tres | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/regra-tres-simples.htm) | Semanas 1 e 2 |
+| Unidades de medida | Alta | [Brasil Escola](https://brasilescola.uol.com.br/quimica/unidades-medida.htm) | Antes de questoes com conversao |
+| Graficos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/graficos.htm) | Semanas 2, 3 e 11 |
+| Estatistica | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/estatistica-2.htm) | Semanas 3 e 5 |
+| Probabilidade | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/probabilidade.htm) | Semanas 7 e 8 |
+| Analise combinatoria | Media | [Brasil Escola](https://brasilescola.uol.com.br/matematica/analise-combinatoria.htm) | Antes de probabilidade mais dificil |
+| Funcao do 1o grau | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/funcao-de-primeiro-grau.htm) | Semanas 4 e 5 |
+| Funcao do 2o grau | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/funcao-de-segundo-grau.htm) | Semanas 4 e 5 |
+| Area de solidos geometricos | Alta | [Brasil Escola](https://brasilescola.uol.com.br/matematica/area-solidos-geometricos.htm) | Semanas 6, 7 e revisao final |
+
 ## Como o ENEM costuma cobrar
 
 Problemas longos, com tabelas, graficos, unidades e contexto. Muitas questoes sao resolvidas com matematica basica bem aplicada.

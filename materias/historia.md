@@ -22,6 +22,18 @@ Historia avalia processos sociais, politicos, economicos e culturais. A prova co
 6. Mundo contemporaneo.
 7. Historia indigena e africana.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Brasil Colonia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/brasil-colonia.htm) | Semanas 1 e 3 |
+| Escravidao no Brasil | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/escravidao-no-brasil.htm) | Semana 2 e revisao final |
+| Brasil Imperio | Media | [Brasil Escola](https://brasilescola.uol.com.br/historiab/brasil-monarquia.htm) | Semanas 3 e 4 |
+| Era Vargas | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/era-vargas.htm) | Semana 5 |
+| Ditadura Militar | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiab/ditadura-militar.htm) | Semana 6 e revisao final |
+| Revolucao Industrial | Media | [Brasil Escola](https://brasilescola.uol.com.br/historiag/revolucao-industrial.htm) | Antes de trabalho, industria e tecnologia |
+| Guerra Fria | Media | [Brasil Escola](https://brasilescola.uol.com.br/historiag/guerra-fria.htm) | Semana 7 e Humanas contextualizadas |
+
 ## Como o ENEM costuma cobrar
 
 Com fontes historicas, charges, documentos e textos. A questao geralmente pede interpretacao do processo, nao memorizacao de data.

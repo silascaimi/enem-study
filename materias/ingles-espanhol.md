@@ -20,6 +20,15 @@ A lingua estrangeira avalia leitura instrumental. O estudante precisa compreende
 4. Conectivos e marcadores de sentido.
 5. Vocabulario recorrente.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Pagina de Ingles | Alta | [Brasil Escola](https://brasilescola.uol.com.br/ingles/) | Para leitura instrumental e vocabulario |
+| Pagina de Espanhol | Alta | [Brasil Escola](https://brasilescola.uol.com.br/espanhol/) | Para leitura instrumental e vocabulario |
+| Interpretacao no ENEM | Alta | [Brasil Escola](https://vestibular.brasilescola.uol.com.br/enem/como-interpretar-textos-no-enem.htm) | Antes de resolver questoes de lingua estrangeira |
+| Simulado ENEM | Media | [Brasil Escola](https://vestibular.brasilescola.uol.com.br/simulado/enem) | Treino cronometrado a partir do mes 2 |
+
 ## Como o ENEM costuma cobrar
 
 O texto vem em ingles ou espanhol, mas as alternativas sao em portugues. A questao costuma pedir tema, objetivo, critica ou sentido de uma expressao no contexto.

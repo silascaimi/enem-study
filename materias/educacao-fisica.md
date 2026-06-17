@@ -20,6 +20,14 @@ Educacao Fisica aparece em Linguagens com foco em corpo, saude, esporte, lazer, 
 4. Padroes esteticos e midia.
 5. Praticas corporais culturais.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Pagina de Educacao Fisica | Alta | [Brasil Escola](https://brasilescola.uol.com.br/educacao-fisica/) | Para revisar corpo, esporte, saude e cultura corporal |
+| Saude e qualidade de vida | Alta | [Brasil Escola](https://brasilescola.uol.com.br/educacao-fisica/) | Antes de questoes sobre atividade fisica e bem-estar |
+| Simulado ENEM | Media | [Brasil Escola](https://vestibular.brasilescola.uol.com.br/simulado/enem) | Treino de Linguagens com tempo marcado |
+
 ## Como o ENEM costuma cobrar
 
 As questoes relacionam praticas corporais a sociedade, saude publica, inclusao, preconceito, qualidade de vida e cultura.

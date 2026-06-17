@@ -23,6 +23,7 @@ Links externos sao apoio para teoria e revisao. Para medir evolucao, priorize pr
 | Exercicios | [Exercicios Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de estudar um assunto especifico. |
 | Simulados | [Simulado ENEM Brasil Escola](https://vestibular.brasilescola.uol.com.br/simulado/enem) | A partir do mes 2, com tempo marcado. |
 | Provas | [Provas e gabaritos Brasil Escola](https://vestibular.brasilescola.uol.com.br/downloads) e [INEP](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos) | Base principal dos meses 3 e 4. |
+| Paginas de disciplina | [Artes](https://brasilescola.uol.com.br/artes/), [Educacao Fisica](https://brasilescola.uol.com.br/educacao-fisica/), [Ingles](https://brasilescola.uol.com.br/ingles/), [Espanhol](https://brasilescola.uol.com.br/espanhol/), [Filosofia](https://brasilescola.uol.com.br/filosofia/) | Quando nao houver artigo especifico na curadoria. |
 
 ## Prioridade maxima
 
@@ -60,17 +61,32 @@ Links externos sao apoio para teoria e revisao. Para medir evolucao, priorize pr
 | Ordem | Conteudo | Prioridade |
 |---:|---|---|
 | 1 | [Interpretacao de textos no ENEM](https://vestibular.brasilescola.uol.com.br/enem/como-interpretar-textos-no-enem.htm) | Alta |
-| 2 | [Funcoes da linguagem](https://brasilescola.uol.com.br/gramatica/funcoes-linguagem.htm) | Alta |
-| 3 | [Linguagem verbal e nao verbal](https://brasilescola.uol.com.br/redacao/linguagem-verbal-linguagem-nao-verbal.htm) | Alta |
-| 4 | [Tipos de intertextualidade](https://brasilescola.uol.com.br/redacao/tipos-intertextualidade.htm) | Media |
-| 5 | [Semantica](https://brasilescola.uol.com.br/portugues/semantica.htm) | Media |
-| 6 | [Figuras de linguagem](https://brasilescola.uol.com.br/gramatica/figuras-linguagem.htm) | Media |
-| 7 | [Modernismo](https://brasilescola.uol.com.br/literatura/modernismo.htm) | Alta |
-| 8 | [Pre-modernismo](https://brasilescola.uol.com.br/literatura/premodernismo.htm) | Media |
-| 9 | [Romantismo](https://brasilescola.uol.com.br/literatura/romantismo.htm) | Media |
-| 10 | [Barroco](https://brasilescola.uol.com.br/literatura/o-barroco.htm) | Media |
-| 11 | [Arcadismo](https://brasilescola.uol.com.br/literatura/arcadismo.htm) | Media |
-| 12 | [Poesia, poema e prosa](https://brasilescola.uol.com.br/literatura/poesia-poema-prosa.htm) | Media |
+| 2 | [Generos textuais](https://brasilescola.uol.com.br/redacao/generos-textuais.htm) | Alta |
+| 3 | [Funcoes da linguagem](https://brasilescola.uol.com.br/gramatica/funcoes-linguagem.htm) | Alta |
+| 4 | [Variacao linguistica](https://brasilescola.uol.com.br/gramatica/variacoes-linguisticas.htm) | Alta |
+| 5 | [Linguagem verbal e nao verbal](https://brasilescola.uol.com.br/redacao/linguagem-verbal-linguagem-nao-verbal.htm) | Alta |
+| 6 | [Tipos de intertextualidade](https://brasilescola.uol.com.br/redacao/tipos-intertextualidade.htm) | Media |
+| 7 | [Semantica](https://brasilescola.uol.com.br/portugues/semantica.htm) | Media |
+| 8 | [Figuras de linguagem](https://brasilescola.uol.com.br/gramatica/figuras-linguagem.htm) | Media |
+| 9 | [Modernismo](https://brasilescola.uol.com.br/literatura/modernismo.htm) | Alta |
+| 10 | [Pre-modernismo](https://brasilescola.uol.com.br/literatura/premodernismo.htm) | Media |
+| 11 | [Romantismo](https://brasilescola.uol.com.br/literatura/romantismo.htm) | Media |
+| 12 | [Barroco](https://brasilescola.uol.com.br/literatura/o-barroco.htm) | Media |
+| 13 | [Arcadismo](https://brasilescola.uol.com.br/literatura/arcadismo.htm) | Media |
+| 14 | [Poesia, poema e prosa](https://brasilescola.uol.com.br/literatura/poesia-poema-prosa.htm) | Media |
+
+## Linguagens complementares
+
+| Disciplina | Conteudo | Prioridade |
+|---|---|---|
+| Ingles | [Pagina de Ingles](https://brasilescola.uol.com.br/ingles/) | Alta |
+| Espanhol | [Pagina de Espanhol](https://brasilescola.uol.com.br/espanhol/) | Alta |
+| Artes | [Pagina de Artes](https://brasilescola.uol.com.br/artes/) | Alta |
+| Artes | [Arte moderna](https://brasilescola.uol.com.br/artes/arte-moderna.htm) | Alta |
+| Artes | [Grafite](https://brasilescola.uol.com.br/artes/grafite.htm) | Alta |
+| Artes | [Historia do cinema](https://brasilescola.uol.com.br/artes/cinema.htm) | Media |
+| Artes | [Historia do teatro](https://brasilescola.uol.com.br/artes/teatro.htm) | Media |
+| Educacao Fisica | [Pagina de Educacao Fisica](https://brasilescola.uol.com.br/educacao-fisica/) | Alta |
 
 ## Matematica
 

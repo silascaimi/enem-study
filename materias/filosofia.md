@@ -21,6 +21,14 @@ Filosofia cobra interpretacao de textos curtos, conceitos de etica, politica, co
 5. Iluminismo.
 6. Filosofia moderna.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Pagina de Filosofia | Alta | [Brasil Escola](https://brasilescola.uol.com.br/filosofia/) | Para revisar autores, conceitos e escolas |
+| Iluminismo | Alta | [Brasil Escola](https://brasilescola.uol.com.br/historiag/iluminismo.htm) | Antes de democracia, razao e politica |
+| Exercicios Brasil Escola | Media | [Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de revisar conceitos |
+
 ## Como o ENEM costuma cobrar
 
 O ENEM apresenta um texto de autor ou comentario e pede identificar ideia central, conceito ou aplicacao social.

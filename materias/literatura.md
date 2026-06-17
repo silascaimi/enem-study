@@ -21,6 +21,18 @@ Literatura aparece como leitura de textos, relacao entre obra e contexto histori
 5. Literatura afro-brasileira, indigena e feminina.
 6. Analise de poemas e fragmentos.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Modernismo | Alta | [Brasil Escola](https://brasilescola.uol.com.br/literatura/modernismo.htm) | Semanas 5, 8 e revisao final |
+| Pre-modernismo | Media | [Brasil Escola](https://brasilescola.uol.com.br/literatura/premodernismo.htm) | Antes de estudar ruptura e transicao |
+| Romantismo | Media | [Brasil Escola](https://brasilescola.uol.com.br/literatura/romantismo.htm) | Revisao de escolas literarias |
+| Barroco | Media | [Brasil Escola](https://brasilescola.uol.com.br/literatura/o-barroco.htm) | Revisao de contexto e linguagem |
+| Arcadismo | Media | [Brasil Escola](https://brasilescola.uol.com.br/literatura/arcadismo.htm) | Revisao de escolas literarias |
+| Poesia, poema e prosa | Media | [Brasil Escola](https://brasilescola.uol.com.br/literatura/poesia-poema-prosa.htm) | Antes de questoes com poemas e fragmentos |
+| Exercicios de Literatura | Media | [Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de estudar escolas e movimentos |
+
 ## Como o ENEM costuma cobrar
 
 As questoes trazem fragmentos e pedem relacao com contexto, linguagem, ruptura estetica, critica social ou visao de mundo.

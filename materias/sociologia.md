@@ -22,6 +22,15 @@ Sociologia ajuda a interpretar cultura, trabalho, desigualdade, poder, cidadania
 6. Industria cultural e globalizacao.
 7. Estado e poder.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Movimentos sociais | Alta | [Brasil Escola](https://brasilescola.uol.com.br/sociologia/movimentos-sociais-breve-definicao.htm) | Semanas 8 e 10 |
+| Cultura material e imaterial | Alta | [Brasil Escola](https://brasilescola.uol.com.br/cultura/cultura-material-e-cultura-imaterial.htm) | Antes de cultura, patrimonio e identidade |
+| Patrimonio historico cultural | Media | [Brasil Escola](https://brasilescola.uol.com.br/curiosidades/patrimonio-historico-cultural.htm) | Revisao de cultura e memoria |
+| Exercicios Brasil Escola | Media | [Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Depois de estudar conceitos sociologicos |
+
 ## Como o ENEM costuma cobrar
 
 As questoes trazem textos, dados ou situacoes sociais e pedem relacao com conceitos sociologicos.

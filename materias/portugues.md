@@ -22,6 +22,19 @@ Portugues aparece principalmente em interpretacao de textos, generos, efeitos de
 6. Figuras e efeitos de sentido.
 7. Textos multimodais.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Interpretacao no ENEM | Alta | [Brasil Escola](https://vestibular.brasilescola.uol.com.br/enem/como-interpretar-textos-no-enem.htm) | Semanas 1, 9 e revisao final |
+| Generos textuais | Alta | [Brasil Escola](https://brasilescola.uol.com.br/redacao/generos-textuais.htm) | Antes de listas de Linguagens |
+| Funcoes da linguagem | Alta | [Brasil Escola](https://brasilescola.uol.com.br/gramatica/funcoes-linguagem.htm) | Semanas 2 e 3 |
+| Variacao linguistica | Alta | [Brasil Escola](https://brasilescola.uol.com.br/gramatica/variacoes-linguisticas.htm) | Antes de questoes sobre fala, norma e identidade |
+| Linguagem verbal e nao verbal | Alta | [Brasil Escola](https://brasilescola.uol.com.br/redacao/linguagem-verbal-linguagem-nao-verbal.htm) | Antes de charges, tirinhas e propagandas |
+| Intertextualidade | Media | [Brasil Escola](https://brasilescola.uol.com.br/redacao/tipos-intertextualidade.htm) | Revisao de textos comparativos |
+| Semantica | Media | [Brasil Escola](https://brasilescola.uol.com.br/portugues/semantica.htm) | Quando errar sentido de palavra ou expressao |
+| Figuras de linguagem | Media | [Brasil Escola](https://brasilescola.uol.com.br/gramatica/figuras-linguagem.htm) | Revisao de efeitos de sentido |
+
 ## Como o ENEM costuma cobrar
 
 O ENEM cobra leitura atenta e finalidade comunicativa. A pergunta geralmente pede efeito de sentido, intencao do autor, relacao entre linguagem verbal e nao verbal ou adequacao da linguagem ao contexto.

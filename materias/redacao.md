@@ -21,6 +21,15 @@ A redacao tem peso alto e pode elevar muito a nota final. Ela avalia escrita, ar
 5. Proposta de intervencao completa.
 6. Correcao e reescrita.
 
+## Links Brasil Escola por assunto
+
+| Assunto | Prioridade | Link | Quando usar |
+|---|---|---|---|
+| Texto dissertativo-argumentativo | Alta | [Brasil Escola](https://brasilescola.uol.com.br/redacao/texto-dissertativo-argumentativo.htm) | Semanas 1 e 2 |
+| Proposta de intervencao | Alta | [Brasil Escola](https://brasilescola.uol.com.br/redacao/proposta-intervencao-enem.htm) | Semanas 2 a 4 e revisao final |
+| 5 competencias | Alta | [Brasil Escola](https://brasilescola.uol.com.br/redacao/as-5-competencias-da-redacao-do-enem.htm) | Toda correcao e reescrita |
+| Exercicios de Redacao | Media | [Brasil Escola](https://exercicios.brasilescola.uol.com.br/) | Para treinar proposta, repertorio e estrutura |
+
 ## Como o ENEM costuma cobrar
 
 O tema apresenta um problema social brasileiro. O estudante deve defender uma tese e propor intervencao detalhada respeitando direitos humanos.
