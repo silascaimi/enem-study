@@ -32,7 +32,7 @@
 
 ## Evolucao da redacao por competencia
 
-Use o [prompt avaliador](prompt-avaliador-redacao-enem.md) ou uma correcao humana para preencher a tabela.
+Use o [prompt avaliador](../05-redacao/prompt-avaliador-redacao-enem.md) ou uma correcao humana para preencher a tabela.
 
 | Semana | Tema | C1 | C2 | C3 | C4 | C5 | Nota total | Reescrita feita? |
 |---:|---|---:|---:|---:|---:|---:|---:|---|

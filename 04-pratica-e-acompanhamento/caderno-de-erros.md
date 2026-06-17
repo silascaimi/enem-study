@@ -14,7 +14,7 @@ Registre todo erro importante. O objetivo e transformar erro em pauta de revisao
 |---|---|
 | Falta de teoria | Voltar ao resumo ou artigo de apoio e resolver 10 questoes faceis. |
 | Erro de leitura | Grifar comando, dados e o que a questao pede antes de resolver. |
-| Erro de formula | Atualizar [formularios-rapidos.md](formularios-rapidos.md) e refazer 5 questoes. |
+| Erro de formula | Atualizar [formularios-rapidos.md](../06-recursos/formularios-rapidos.md) e refazer 5 questoes. |
 | Falta de tempo | Treinar bloco cronometrado com questoes faceis primeiro. |
 | Distracao | Criar checklist de conferencia: unidade, sinal, alternativa e comando. |
 | Repertorio fraco | Revisar banco de temas, tese e repertorio antes da proxima redacao. |

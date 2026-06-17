@@ -48,7 +48,7 @@
 
 Estude um conceito, resolva exemplos simples, avance para questoes ENEM e registre o tipo de erro. A meta nao e decorar formulas isoladas, mas reconhecer modelos de problema rapidamente.
 
-Para revisao rapida, use [formularios-rapidos.md](formularios-rapidos.md).
+Para revisao rapida, use [formularios-rapidos.md](../06-recursos/formularios-rapidos.md).
 
 ## Links Brasil Escola para esta area
 

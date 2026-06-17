@@ -18,41 +18,41 @@ Este projeto organiza uma preparacao completa para o ENEM em 16 semanas, com foc
 
 1. Leia o cronograma geral e marque sua semana atual.
 2. Use os guias por area para entender prioridades.
-3. Consulte os arquivos da pasta `materias/` para estudar cada disciplina; cada arquivo inclui links diretos do Brasil Escola por assunto.
+3. Consulte os arquivos da pasta `03-materias/` para estudar cada disciplina; cada arquivo inclui links diretos do Brasil Escola por assunto.
 4. Registre desempenho no checklist, no caderno de erros e nas tabelas mensais.
 5. Ajuste a carga semanal conforme sua rotina, mantendo teoria, questoes, redacao e revisao.
-6. Use `links-brasil-escola-enem-2026.md` para estudar os temas da semana com apoio de artigos, exercicios, provas e simulados do Brasil Escola.
-7. Use `prompt-avaliador-redacao-enem.md` para avaliar redacoes com nota estimada por competencia, diagnostico e plano de reescrita.
+6. Use `06-recursos/links-brasil-escola-enem-2026.md` para estudar os temas da semana com apoio de artigos, exercicios, provas e simulados do Brasil Escola.
+7. Use `05-redacao/prompt-avaliador-redacao-enem.md` para avaliar redacoes com nota estimada por competencia, diagnostico e plano de reescrita.
 
 ## Fluxo recomendado
 
-1. **Diagnostico:** faca a Semana 1 e registre dificuldades em [caderno-de-erros.md](caderno-de-erros.md).
-2. **Cronograma:** siga [00-cronograma-geral.md](00-cronograma-geral.md) como trilha central.
+1. **Diagnostico:** faca a Semana 1 e registre dificuldades em [caderno-de-erros.md](04-pratica-e-acompanhamento/caderno-de-erros.md).
+2. **Cronograma:** siga [00-cronograma-geral.md](01-planejamento/00-cronograma-geral.md) como trilha central.
 3. **Estudo por area:** use os guias principais para priorizar o que mais cai.
-4. **Aprofundamento por disciplina:** consulte os arquivos em [materias/](materias/).
-5. **Pratica e simulados:** siga [06-simulados-e-revisoes.md](06-simulados-e-revisoes.md).
-6. **Acompanhamento:** atualize [08-checklist-de-acompanhamento.md](08-checklist-de-acompanhamento.md) toda semana.
+4. **Aprofundamento por disciplina:** consulte os arquivos em [03-materias/](03-materias/).
+5. **Pratica e simulados:** siga [06-simulados-e-revisoes.md](04-pratica-e-acompanhamento/06-simulados-e-revisoes.md).
+6. **Acompanhamento:** atualize [08-checklist-de-acompanhamento.md](04-pratica-e-acompanhamento/08-checklist-de-acompanhamento.md) toda semana.
 
 ## Arquivos principais
 
 | Arquivo | Uso |
 |---|---|
-| [00-cronograma-geral.md](00-cronograma-geral.md) | Plano de 16 semanas, links semanais e metas de questoes/redacao. |
-| [01-linguagens.md](01-linguagens.md) | Guia de Linguagens, interpretacao, literatura, artes e TICs. |
-| [02-redacao.md](02-redacao.md) | Guia completo de redacao, competencias, repertorios e treino. |
-| [03-matematica.md](03-matematica.md) | Prioridades, formulas e ordem de estudo de Matematica. |
-| [04-ciencias-humanas.md](04-ciencias-humanas.md) | Historia, Geografia, Filosofia e Sociologia. |
-| [05-ciencias-da-natureza.md](05-ciencias-da-natureza.md) | Biologia, Quimica e Fisica. |
-| [06-simulados-e-revisoes.md](06-simulados-e-revisoes.md) | Frequencia, correcao, tempo e revisao pos-simulado. |
-| [07-metodo-de-estudo.md](07-metodo-de-estudo.md) | Rotinas de 2h, 3h e 4h por dia. |
-| [08-checklist-de-acompanhamento.md](08-checklist-de-acompanhamento.md) | Indicadores semanais, mensais e por area. |
-| [tarefas-semanais.md](tarefas-semanais.md) | Lista operacional por dia da semana. |
-| [banco-de-temas-redacao.md](banco-de-temas-redacao.md) | Temas, eixos, repertorios, teses e argumentos. |
-| [caderno-de-erros.md](caderno-de-erros.md) | Registro de erros, causa raiz e revisoes 1/7/30 dias. |
-| [formularios-rapidos.md](formularios-rapidos.md) | Formulas essenciais de Matematica, Fisica e Quimica. |
-| [links-brasil-escola-enem-2026.md](links-brasil-escola-enem-2026.md) | Links de apoio separados por leitura, exercicios e simulados. |
-| [fontes-recomendadas.md](fontes-recomendadas.md) | Fontes oficiais, Brasil Escola, provas e materiais de redacao. |
-| [prompt-avaliador-redacao-enem.md](prompt-avaliador-redacao-enem.md) | Prompt para avaliacao de redacao por competencia. |
+| [00-cronograma-geral.md](01-planejamento/00-cronograma-geral.md) | Plano de 16 semanas, links semanais e metas de questoes/redacao. |
+| [01-linguagens.md](02-guias-por-area/01-linguagens.md) | Guia de Linguagens, interpretacao, literatura, artes e TICs. |
+| [02-redacao.md](02-guias-por-area/02-redacao.md) | Guia completo de redacao, competencias, repertorios e treino. |
+| [03-matematica.md](02-guias-por-area/03-matematica.md) | Prioridades, formulas e ordem de estudo de Matematica. |
+| [04-ciencias-humanas.md](02-guias-por-area/04-ciencias-humanas.md) | Historia, Geografia, Filosofia e Sociologia. |
+| [05-ciencias-da-natureza.md](02-guias-por-area/05-ciencias-da-natureza.md) | Biologia, Quimica e Fisica. |
+| [06-simulados-e-revisoes.md](04-pratica-e-acompanhamento/06-simulados-e-revisoes.md) | Frequencia, correcao, tempo e revisao pos-simulado. |
+| [07-metodo-de-estudo.md](01-planejamento/07-metodo-de-estudo.md) | Rotinas de 2h, 3h e 4h por dia. |
+| [08-checklist-de-acompanhamento.md](04-pratica-e-acompanhamento/08-checklist-de-acompanhamento.md) | Indicadores semanais, mensais e por area. |
+| [tarefas-semanais.md](01-planejamento/tarefas-semanais.md) | Lista operacional por dia da semana. |
+| [banco-de-temas-redacao.md](05-redacao/banco-de-temas-redacao.md) | Temas, eixos, repertorios, teses e argumentos. |
+| [caderno-de-erros.md](04-pratica-e-acompanhamento/caderno-de-erros.md) | Registro de erros, causa raiz e revisoes 1/7/30 dias. |
+| [formularios-rapidos.md](06-recursos/formularios-rapidos.md) | Formulas essenciais de Matematica, Fisica e Quimica. |
+| [links-brasil-escola-enem-2026.md](06-recursos/links-brasil-escola-enem-2026.md) | Links de apoio separados por leitura, exercicios e simulados. |
+| [fontes-recomendadas.md](06-recursos/fontes-recomendadas.md) | Fontes oficiais, Brasil Escola, provas e materiais de redacao. |
+| [prompt-avaliador-redacao-enem.md](05-redacao/prompt-avaliador-redacao-enem.md) | Prompt para avaliacao de redacao por competencia. |
 
 ## Materias
 
@@ -60,11 +60,11 @@ Cada disciplina tem uma secao `Links Brasil Escola por assunto`, com atalhos par
 
 | Area | Disciplinas |
 |---|---|
-| Linguagens | [Portugues](materias/portugues.md), [Literatura](materias/literatura.md), [Ingles ou Espanhol](materias/ingles-espanhol.md), [Artes](materias/artes.md), [Educacao Fisica](materias/educacao-fisica.md) |
-| Redacao | [Redacao](materias/redacao.md) |
-| Matematica | [Matematica](materias/matematica.md) |
-| Humanas | [Historia](materias/historia.md), [Geografia](materias/geografia.md), [Filosofia](materias/filosofia.md), [Sociologia](materias/sociologia.md) |
-| Natureza | [Biologia](materias/biologia.md), [Quimica](materias/quimica.md), [Fisica](materias/fisica.md) |
+| Linguagens | [Portugues](03-materias/portugues.md), [Literatura](03-materias/literatura.md), [Ingles ou Espanhol](03-materias/ingles-espanhol.md), [Artes](03-materias/artes.md), [Educacao Fisica](03-materias/educacao-fisica.md) |
+| Redacao | [Redacao](03-materias/redacao.md) |
+| Matematica | [Matematica](03-materias/matematica.md) |
+| Humanas | [Historia](03-materias/historia.md), [Geografia](03-materias/geografia.md), [Filosofia](03-materias/filosofia.md), [Sociologia](03-materias/sociologia.md) |
+| Natureza | [Biologia](03-materias/biologia.md), [Quimica](03-materias/quimica.md), [Fisica](03-materias/fisica.md) |
 
 ## Duracao e carga sugerida
 
@@ -102,48 +102,55 @@ Se tiver ate 2 horas por dia, mantenha quatro blocos fixos: matematica basica, i
 
 ## Complemento Brasil Escola
 
-O arquivo [links-brasil-escola-enem-2026.md](links-brasil-escola-enem-2026.md) organiza links por area e prioridade. Use essa curadoria como apoio teorico, mantendo a ordem do plano: primeiro os assuntos de alta recorrencia, depois os de prioridade media, sempre com questoes e revisao.
+O arquivo [links-brasil-escola-enem-2026.md](06-recursos/links-brasil-escola-enem-2026.md) organiza links por area e prioridade. Use essa curadoria como apoio teorico, mantendo a ordem do plano: primeiro os assuntos de alta recorrencia, depois os de prioridade media, sempre com questoes e revisao.
 
 ## Avaliador de redacao
 
-O arquivo [prompt-avaliador-redacao-enem.md](prompt-avaliador-redacao-enem.md) traz um prompt pronto para copiar em uma IA e obter uma avaliacao no modelo ENEM. Ele considera as 5 competencias, os criterios de nota zero, a estrutura dissertativo-argumentativa, a proposta de intervencao e um plano objetivo de reescrita.
+O arquivo [prompt-avaliador-redacao-enem.md](05-redacao/prompt-avaliador-redacao-enem.md) traz um prompt pronto para copiar em uma IA e obter uma avaliacao no modelo ENEM. Ele considera as 5 competencias, os criterios de nota zero, a estrutura dissertativo-argumentativa, a proposta de intervencao e um plano objetivo de reescrita.
 
 ## Estrutura do projeto
 
-Este repositorio foi padronizado para manter o plano diretamente na raiz, pois esta pasta ja e o projeto Git.
+Este repositorio foi padronizado para manter apenas o README na raiz e separar os materiais por tipo de uso.
 
 ```text
 enem-study/
 |-- README.md
-|-- 00-cronograma-geral.md
-|-- 01-linguagens.md
-|-- 02-redacao.md
-|-- 03-matematica.md
-|-- 04-ciencias-humanas.md
-|-- 05-ciencias-da-natureza.md
-|-- 06-simulados-e-revisoes.md
-|-- 07-metodo-de-estudo.md
-|-- 08-checklist-de-acompanhamento.md
-|-- tarefas-semanais.md
-|-- banco-de-temas-redacao.md
-|-- caderno-de-erros.md
-|-- formularios-rapidos.md
-|-- fontes-recomendadas.md
-|-- links-brasil-escola-enem-2026.md
-|-- prompt-avaliador-redacao-enem.md
-`-- materias/
-    |-- portugues.md
-    |-- literatura.md
-    |-- ingles-espanhol.md
-    |-- artes.md
-    |-- educacao-fisica.md
-    |-- redacao.md
-    |-- matematica.md
-    |-- historia.md
-    |-- geografia.md
-    |-- filosofia.md
-    |-- sociologia.md
-    |-- biologia.md
-    |-- quimica.md
-    `-- fisica.md
+|-- 01-planejamento/
+|   |-- 00-cronograma-geral.md
+|   |-- 07-metodo-de-estudo.md
+|   `-- tarefas-semanais.md
+|-- 02-guias-por-area/
+|   |-- 01-linguagens.md
+|   |-- 02-redacao.md
+|   |-- 03-matematica.md
+|   |-- 04-ciencias-humanas.md
+|   `-- 05-ciencias-da-natureza.md
+|-- 03-materias/
+|   |-- portugues.md
+|   |-- literatura.md
+|   |-- ingles-espanhol.md
+|   |-- artes.md
+|   |-- educacao-fisica.md
+|   |-- redacao.md
+|   |-- matematica.md
+|   |-- historia.md
+|   |-- geografia.md
+|   |-- filosofia.md
+|   |-- sociologia.md
+|   |-- biologia.md
+|   |-- quimica.md
+|   `-- fisica.md
+|-- 04-pratica-e-acompanhamento/
+|   |-- 06-simulados-e-revisoes.md
+|   |-- 08-checklist-de-acompanhamento.md
+|   `-- caderno-de-erros.md
+|-- 05-redacao/
+|   |-- banco-de-temas-redacao.md
+|   `-- prompt-avaliador-redacao-enem.md
+|-- 06-recursos/
+|   |-- formularios-rapidos.md
+|   |-- fontes-recomendadas.md
+|   `-- links-brasil-escola-enem-2026.md
+`-- 99-origem/
+    `-- prompt.txt
 ```

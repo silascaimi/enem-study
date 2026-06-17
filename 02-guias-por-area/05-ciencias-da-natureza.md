@@ -49,7 +49,7 @@
 | Ondulatoria e optica | Media | Frequencia, luz, espelhos | v=lambda.f | Som, visao, lentes | Oculos e fibra optica | Entenda fenomeno |
 | Termologia e hidrostatica | Media | Calor, temperatura, pressao | Q=m.c.deltaT; p=d.g.h | Clima, fluidos | Panela de pressao | Interprete contexto |
 
-Para revisao rapida de Fisica e Quimica, use [formularios-rapidos.md](formularios-rapidos.md).
+Para revisao rapida de Fisica e Quimica, use [formularios-rapidos.md](../06-recursos/formularios-rapidos.md).
 
 ## Links Brasil Escola para esta area
 

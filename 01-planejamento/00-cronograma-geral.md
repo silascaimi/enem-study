@@ -27,7 +27,7 @@ Use os links abaixo como leitura de apoio antes das questoes. A ordem privilegia
 | 10 | [Geografia urbana](https://brasilescola.uol.com.br/geografia/geografia-urbana.htm), [Funcoes organicas](https://brasilescola.uol.com.br/quimica/funcoes-organicas.htm), [Leis de Newton](https://brasilescola.uol.com.br/fisica/leis-newton.htm), [Poesia, poema e prosa](https://brasilescola.uol.com.br/literatura/poesia-poema-prosa.htm) |
 | 11 | [Globalizacao](https://brasilescola.uol.com.br/geografia/globalizacao.htm), [Cultura material e imaterial](https://brasilescola.uol.com.br/cultura/cultura-material-e-cultura-imaterial.htm), [Biologia evolutiva](https://brasilescola.uol.com.br/biologia/biologia-evolutiva.htm), [Energia e trabalho](https://brasilescola.uol.com.br/fisica/trabalho.htm) |
 | 12 | [Exercicios Brasil Escola](https://exercicios.brasilescola.uol.com.br/), [Proposta de intervencao](https://brasilescola.uol.com.br/redacao/proposta-intervencao-enem.htm), [Texto dissertativo-argumentativo](https://brasilescola.uol.com.br/redacao/texto-dissertativo-argumentativo.htm) |
-| 13 | Revisar links de prioridade maxima em [links-brasil-escola-enem-2026.md](links-brasil-escola-enem-2026.md) |
+| 13 | Revisar links de prioridade maxima em [links-brasil-escola-enem-2026.md](../06-recursos/links-brasil-escola-enem-2026.md) |
 | 14 | Revisar links dos assuntos com menor acerto no caderno de erros |
 | 15 | Refazer questoes e consultar apenas conteudos ainda instaveis |
 | 16 | Usar links apenas para revisao leve de formulas, repertorios e conceitos-chave |

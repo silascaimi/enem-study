@@ -1,6 +1,6 @@
 # Banco de temas de redacao
 
-Use esta tabela para treinar tese, repertorio, argumentos e proposta de intervencao. Depois de escrever, avalie com [prompt-avaliador-redacao-enem.md](prompt-avaliador-redacao-enem.md) e registre a nota em [08-checklist-de-acompanhamento.md](08-checklist-de-acompanhamento.md).
+Use esta tabela para treinar tese, repertorio, argumentos e proposta de intervencao. Depois de escrever, avalie com [prompt-avaliador-redacao-enem.md](prompt-avaliador-redacao-enem.md) e registre a nota em [08-checklist-de-acompanhamento.md](../04-pratica-e-acompanhamento/08-checklist-de-acompanhamento.md).
 
 | Eixo | Tema | Repertorio possivel | Tese possivel | Argumentos possiveis |
 |---|---|---|---|---|
