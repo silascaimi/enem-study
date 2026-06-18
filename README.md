@@ -147,10 +147,8 @@ enem-study/
 |-- 05-redacao/
 |   |-- banco-de-temas-redacao.md
 |   `-- prompt-avaliador-redacao-enem.md
-|-- 06-recursos/
-|   |-- formularios-rapidos.md
-|   |-- fontes-recomendadas.md
-|   `-- links-brasil-escola-enem-2026.md
-`-- 99-origem/
-    `-- prompt.txt
+`-- 06-recursos/
+    |-- formularios-rapidos.md
+    |-- fontes-recomendadas.md
+    `-- links-brasil-escola-enem-2026.md
 ```
